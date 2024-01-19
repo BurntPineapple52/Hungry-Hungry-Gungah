@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b53b31708e7afd45a543995f25f7ae9, type: 3}
+  m_Name: Bag of Pieces
+  m_EditorClassIdentifier: 
+  _bagOfPieces:
+  - _piece: {fileID: 4953907663671359318, guid: 40a742444109c144d921c157e5cea1b2, type: 3}
+    _amount: 2
+  - _piece: {fileID: 7599777051458180035, guid: ce8d368ba80186348b1c6c6b42e25aef, type: 3}
+    _amount: 2
+  - _piece: {fileID: 4919844392819804034, guid: 9123c0e049d86a145a6ba2979c5a2a59, type: 3}
+    _amount: 2
+  - _piece: {fileID: 2191507986556813492, guid: 7ddc62cccfd30d548914651d02e4ad0e, type: 3}
+    _amount: 2
+  - _piece: {fileID: 5200247345235358991, guid: 43ae97870b9a4c343a21fe9d4fda44dd, type: 3}
+    _amount: 2
+  - _piece: {fileID: 8765310235580156602, guid: 2592a403075fca6489e59f8897811a2e, type: 3}
+    _amount: 2
+  - _piece: {fileID: 4122119546387952112, guid: a881961a0262e804ba65519202888ede, type: 3}
+    _amount: 2
+  - _piece: {fileID: 9218089469427603118, guid: 46c773c0984991d40ab2f375f2575bce, type: 3}
+    _amount: 2
+  - _piece: {fileID: 4848216131581603320, guid: 309568737e899fa4abaee458d4908231, type: 3}
+    _amount: 2
+  - _piece: {fileID: 4999471997906878396, guid: f88ea37dc299bf54ea5f217dd7f7119c, type: 3}
+    _amount: 2
+  - _piece: {fileID: 4459212467341010215, guid: 5ad5e9d167876124b9a795ec543ec9ce, type: 3}
+    _amount: 2
+  - _piece: {fileID: 2167806592948768732, guid: 9224a2c9364202e45adcd8af6719d859, type: 3}
+    _amount: 2
+  - _piece: {fileID: 1105919155376608244, guid: 14e6a1a175419f342b97458638e7013c, type: 3}
+    _amount: 2
+  - _piece: {fileID: 6387230950276605934, guid: 67f3cbc3a04b37a4e8400b74fcf93512, type: 3}
+    _amount: 2
+  - _piece: {fileID: 8770888872063247237, guid: 6038b13cf925d2543810e6814ed5524e, type: 3}
+    _amount: 2
+  - _piece: {fileID: 7100898213199005066, guid: 259587a4c735dca4889b89110abc4f9a, type: 3}
+    _amount: 2
+  - _piece: {fileID: 5947878756557491547, guid: d6651df19956a4d49a6f7ea3e602e2e2, type: 3}
+    _amount: 2
+  - _piece: {fileID: 8166868637232692028, guid: 6513cf25227584245ae8e5899e3568ae, type: 3}
+    _amount: 2
+  - _piece: {fileID: 4017229093267447489, guid: 9304727d5e68de3469a685d237935369, type: 3}
+    _amount: 2
+  - _piece: {fileID: 6084463141122527333, guid: 6e7a086f6c6db7c408600fe9f3dd9134, type: 3}
+    _amount: 2
+  - _piece: {fileID: 7341580642779321552, guid: 6aee97f32722df2478e9f17a9ac281fe, type: 3}
+    _amount: 2
+  - _piece: {fileID: 4501173756294272527, guid: 34f4303cd4c20ed429e12f1838563edb, type: 3}
+    _amount: 2
+  - _piece: {fileID: 5759057974530360462, guid: 765991bbc2be40d46a9e4c8f0653ad94, type: 3}
+    _amount: 2
+  - _piece: {fileID: 1287842173612504268, guid: d958e0d9934eff146a7ee4062fc89571, type: 3}
+    _amount: 2
