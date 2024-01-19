@@ -61,6 +61,13 @@ public class UIManager : MonoBehaviour
         _timeLeft.color = _colorTimeRunningOut;
     }
 
+       // High score functionality 
+    public HighScoreManager highScoreManager;
+    
+    public TextMeshProUGUI highScoreText;
+
+    public GameObject newHighScoreText; // Assuming this is a GameObject with Text component
+
     /* Max's addition, stars */
 
     
@@ -74,6 +81,7 @@ public class UIManager : MonoBehaviour
     public int scoreThresholdForStar1 = 300;
     public int scoreThresholdForStar2 = 600;
     public int scoreThresholdForStar3 = 1000;
+    public int temphighscore;
 
     public void UpdateStarDisplay(int currentScore)
     {
@@ -86,12 +94,30 @@ public class UIManager : MonoBehaviour
   
     /* end of Max's addition, stars */
 
+
+
+    public void OnNewScore(int score)
+        {
+        if (highScoreManager.TrySetNewHighScore(score))
+            {
+            newHighScoreText.SetActive(true); // Show "NEW" when a new high score is set
+            highScoreText.text = ManagerLocator.Instance.Stats.TotalPoints.ToString();
+            }
+            else
+            {
+                temphighscore = highScoreManager.GetHighScore();
+                highScoreText.text = temphighscore.ToString();
+            }
+        }
+
+    // End Menu UI
     public void StartEndMenu()
     {
         _endMenuUI.gameObject.SetActive(true);
 
         /*max added */
         UpdateStarDisplay(ManagerLocator.Instance.Stats.TotalPoints);
+        OnNewScore(ManagerLocator.Instance.Stats.TotalPoints);
 
         _finalScore.text = ManagerLocator.Instance.Stats.TotalPoints.ToString();
 
