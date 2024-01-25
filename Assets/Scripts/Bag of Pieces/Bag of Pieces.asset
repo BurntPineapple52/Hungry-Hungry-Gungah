@@ -23,7 +23,7 @@ MonoBehaviour:
     _amount: 2
   - _piece: {fileID: 5200247345235358991, guid: 43ae97870b9a4c343a21fe9d4fda44dd, type: 3}
     _amount: 2
-  - _piece: {fileID: 8765310235580156602, guid: 2592a403075fca6489e59f8897811a2e, type: 3}
+  - _piece: {fileID: 8765310235580156602, guid: f5152b6feb801bb4ab6d6f4d48c1e289, type: 3}
     _amount: 2
   - _piece: {fileID: 4122119546387952112, guid: a881961a0262e804ba65519202888ede, type: 3}
     _amount: 2
