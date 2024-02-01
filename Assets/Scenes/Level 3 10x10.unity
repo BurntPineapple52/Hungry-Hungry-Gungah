@@ -579,7 +579,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 22.8
+  m_fontSize: 34.65
   m_fontSizeBase: 65
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -687,7 +687,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Total viewers
+  m_text: 'Total subscribers
+
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f06f9dcd9150a4944aab3c792162cb25, type: 2}
   m_sharedMaterial: {fileID: -4324802149286655500, guid: f06f9dcd9150a4944aab3c792162cb25, type: 2}
@@ -714,7 +716,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 11.85
+  m_fontSize: 16.35
   m_fontSizeBase: 35
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -1454,7 +1456,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 27.85
+  m_fontSize: 42.4
   m_fontSizeBase: 65
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -1895,7 +1897,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 17.05
+  m_fontSize: 25.95
   m_fontSizeBase: 40
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -2137,6 +2139,18 @@ MonoBehaviour:
   _multipliedScore: {fileID: 401222826}
   _timeLeft: {fileID: 808976626}
   _colorTimeRunningOut: {r: 0.9716981, g: 0.22459061, b: 0.22459061, a: 1}
+  highScoreManager: {fileID: 0}
+  highScoreText: {fileID: 0}
+  newHighScoreText: {fileID: 0}
+  star1: {fileID: 0}
+  star2: {fileID: 0}
+  star3: {fileID: 0}
+  greyStarSprite: {fileID: 0}
+  coloredStarSprite: {fileID: 0}
+  scoreThresholdForStar1: 300
+  scoreThresholdForStar2: 600
+  scoreThresholdForStar3: 1000
+  temphighscore: 0
 --- !u!1 &935552791
 GameObject:
   m_ObjectHideFlags: 0
@@ -2222,7 +2236,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 25.25
+  m_fontSize: 38.4
   m_fontSizeBase: 65
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -2330,7 +2344,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Total subscribers
+  m_text: Total viewers
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f06f9dcd9150a4944aab3c792162cb25, type: 2}
   m_sharedMaterial: {fileID: -4324802149286655500, guid: f06f9dcd9150a4944aab3c792162cb25, type: 2}
@@ -2357,7 +2371,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 12.7
+  m_fontSize: 24.5
   m_fontSizeBase: 35
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -3388,7 +3402,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 16.55
+  m_fontSize: 25.2
   m_fontSizeBase: 53
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -3607,7 +3621,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 14.9
+  m_fontSize: 22.7
   m_fontSizeBase: 35
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -3742,7 +3756,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 20.25
+  m_fontSize: 30.8
   m_fontSizeBase: 65
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -4131,7 +4145,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Twitch subscribers
+  m_text: New viewers
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f06f9dcd9150a4944aab3c792162cb25, type: 2}
   m_sharedMaterial: {fileID: -4324802149286655500, guid: f06f9dcd9150a4944aab3c792162cb25, type: 2}
@@ -4158,7 +4172,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 11.8
+  m_fontSize: 26.55
   m_fontSizeBase: 35
   m_fontWeight: 400
   m_enableAutoSizing: 1
