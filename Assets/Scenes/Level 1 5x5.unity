@@ -934,7 +934,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 42.65
+  m_fontSize: 36.2
   m_fontSizeBase: 65
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -1069,7 +1069,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 22.2
+  m_fontSize: 18.9
   m_fontSizeBase: 35
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -1381,7 +1381,7 @@ Camera:
   far clip plane: 1000
   field of view: 34
   orthographic: 1
-  orthographic size: 8.344727
+  orthographic size: 7
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -1853,7 +1853,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 52.1
+  m_fontSize: 44.3
   m_fontSizeBase: 65
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -2064,6 +2064,28 @@ MonoBehaviour:
   _effectUseBonusTile: {fileID: 8300000, guid: f01463bac68fc9345a812ee430008323, type: 3}
   _effectSwallow: {fileID: 8300000, guid: c6a42ec3e4e815448a7450ec056e27ab, type: 3}
   _effectTimesUp: {fileID: 8300000, guid: f01463bac68fc9345a812ee430008323, type: 3}
+  _effectGrabPieceArray:
+  - {fileID: 8300000, guid: c25c50e37c835ee40a83f96647128ee1, type: 3}
+  - {fileID: 8300000, guid: c1852757f02ccdf4bbc3c788115cbc66, type: 3}
+  - {fileID: 8300000, guid: 90efc940648f8f14999d447d40160241, type: 3}
+  - {fileID: 8300000, guid: c72beadc2be43434f844f82470e5e109, type: 3}
+  - {fileID: 8300000, guid: 5acdc3eebde307940b72668b657af390, type: 3}
+  - {fileID: 8300000, guid: a39a215bb296c634dbe5cd69d872df0b, type: 3}
+  - {fileID: 8300000, guid: fc8a28a81af811443b1b0a34bf48be4d, type: 3}
+  - {fileID: 8300000, guid: 515db4d683580f6449fcd6607b6642f6, type: 3}
+  - {fileID: 8300000, guid: 69173c972534d5142bc606f1f787576e, type: 3}
+  - {fileID: 8300000, guid: 200578bd64bd719499352d6d9252e4dc, type: 3}
+  - {fileID: 8300000, guid: bdc627319fdcd3c40b3689d8349e1e15, type: 3}
+  - {fileID: 8300000, guid: 442ef53086d77d44a8e72dfa18e758f8, type: 3}
+  - {fileID: 8300000, guid: 1e55010fa7261e546bf5e7b312fec782, type: 3}
+  - {fileID: 8300000, guid: 6c06977f2b764d64cac11cd12a0b7ac2, type: 3}
+  - {fileID: 8300000, guid: 88d432bdbdffce641bfb33bbdbaa3772, type: 3}
+  - {fileID: 8300000, guid: 87f92cd53304fcf449e23bb80dab4d48, type: 3}
+  - {fileID: 8300000, guid: a4d1dca019592b248bdef4f3f42e0008, type: 3}
+  - {fileID: 8300000, guid: 8b061ba41b8188e41a7a752c1ea23108, type: 3}
+  - {fileID: 8300000, guid: 5192ec2a566f58849a6a1d853e940599, type: 3}
+  - {fileID: 8300000, guid: 3bd7f60da9ace024a9da08f4e359a78d, type: 3}
+  - {fileID: 8300000, guid: ddfe2fcfebc506241ace6233fef22bf3, type: 3}
 --- !u!1 &771356638
 GameObject:
   m_ObjectHideFlags: 0
@@ -2226,7 +2248,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36.4
+  m_fontSize: 30.9
   m_fontSizeBase: 40
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -2332,7 +2354,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 132585158aed4c842b87e9c6557da1bd, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.387
+  m_Volume: 0.2
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -2476,9 +2498,9 @@ MonoBehaviour:
   star3: {fileID: 1493371756}
   greyStarSprite: {fileID: 21300000, guid: b468160406f0c6149b332d3a5c4dd835, type: 3}
   coloredStarSprite: {fileID: 21300000, guid: 7e12b87fbc8089846b23ab660212f53f, type: 3}
-  scoreThresholdForStar1: 5
-  scoreThresholdForStar2: 10
-  scoreThresholdForStar3: 20
+  scoreThresholdForStar1: 400
+  scoreThresholdForStar2: 800
+  scoreThresholdForStar3: 1000
   temphighscore: 0
 --- !u!1 &935552791
 GameObject:
@@ -2565,7 +2587,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 47.25
+  m_fontSize: 40.15
   m_fontSizeBase: 65
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -2700,7 +2722,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 25.6
+  m_fontSize: 22.8
   m_fontSizeBase: 35
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -4415,7 +4437,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 33.35
+  m_fontSize: 29.75
   m_fontSizeBase: 53
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -4685,7 +4707,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 30
+  m_fontSize: 26.8
   m_fontSizeBase: 35
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -4820,7 +4842,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 37.9
+  m_fontSize: 32.2
   m_fontSizeBase: 65
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -5236,7 +5258,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 23.75
+  m_fontSize: 21.2
   m_fontSizeBase: 35
   m_fontWeight: 400
   m_enableAutoSizing: 1

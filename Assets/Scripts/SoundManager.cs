@@ -34,6 +34,12 @@ public class SoundManager : MonoBehaviour
     [SerializeField]
     AudioClip _effectTimesUp;
 
+    [SerializeField]
+    AudioClip[] _effectGrabPieceArray;
+
+    int grabPieceIndex = 0;
+
+
     public void StartMusicEnd()
     {
         _audioSourceMusic.clip = _musicEnd;
@@ -42,12 +48,25 @@ public class SoundManager : MonoBehaviour
 
     public void GrabPiece()
     {
-        _audioSourceEffects.PlayOneShot(_effectGrabPiece);
+        _audioSourceEffects.PlayOneShot(_effectGrabPieceArray[grabPieceIndex]);
+
+        grabPieceIndex++; // Move to the next sound
+        if (grabPieceIndex >= _effectGrabPieceArray.Length) // If at the end of the array, wrap to start
+        {
+            grabPieceIndex = 0;
+        }    
+        
     }
 
     public void DropPieceToBoard()
     {
-        _audioSourceEffects.PlayOneShot(_effectDrop);
+        _audioSourceEffects.PlayOneShot(_effectGrabPieceArray[grabPieceIndex]);
+
+        grabPieceIndex++; // Move to the next sound
+        if (grabPieceIndex >= _effectGrabPieceArray.Length) // If at the end of the array, wrap to start
+        {
+            grabPieceIndex = 0;
+        }    
     }
 
     public void BonusTile()
