@@ -88,4 +88,20 @@ public class SoundManager : MonoBehaviour
     {
         _audioSourceMusic.Stop();
     }
+
+    public AudioSource musicSource; // Assign this in the inspector
+    public AudioSource effectsSource; // Assign this in the inspector
+
+    // Mute Music
+    public void ToggleMusicMute()
+    {
+        musicSource.mute = !musicSource.mute; // Toggle the mute state of music
+    }
+
+    // Mute Sound Effects
+    public void ToggleEffectsMute()
+    {
+        effectsSource.mute = !effectsSource.mute; // Toggle the mute state of effects
+    }
+
 }
