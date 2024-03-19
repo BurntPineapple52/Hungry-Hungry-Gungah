@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class SoundManager : MonoBehaviour
 {
@@ -92,16 +93,26 @@ public class SoundManager : MonoBehaviour
     public AudioSource musicSource; // Assign this in the inspector
     public AudioSource effectsSource; // Assign this in the inspector
 
+    public Image musicImage; // Reference to the SpriteRenderer component for music
+    public Image effectsImage; // Reference to the SpriteRenderer component for effects
+
+    public Sprite muteSprite; // Sprite to display when muted
+    public Sprite unmuteSprite; // Sprite to display when not muted
+
     // Mute Music
     public void ToggleMusicMute()
     {
         musicSource.mute = !musicSource.mute; // Toggle the mute state of music
+        // Update the sprite based on the musicSource's mute state
+        musicImage.sprite = musicSource.mute ? muteSprite : unmuteSprite;
     }
 
     // Mute Sound Effects
     public void ToggleEffectsMute()
     {
         effectsSource.mute = !effectsSource.mute; // Toggle the mute state of effects
+        // Update the sprite based on the musicSource's mute state
+        effectsImage.sprite = effectsSource.mute ? muteSprite : unmuteSprite;
     }
 
 }
