@@ -1793,6 +1793,8 @@ MonoBehaviour:
   - {fileID: 1348736800}
   - {fileID: 475321721}
   _bagOfPieces: {fileID: 11400000, guid: 32ceeae369dea144b9d2994071f5f5be, type: 2}
+  floatingTextPrefab: {fileID: 1003078178017533076, guid: 853d51244f1ccb54dab1a25f516f79a6, type: 3}
+  canvas: {fileID: 743469336}
 --- !u!1 &619394800
 GameObject:
   m_ObjectHideFlags: 0

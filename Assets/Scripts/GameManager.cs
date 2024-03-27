@@ -1,6 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
+
 
 public class GameManager : MonoBehaviour
 {
@@ -206,9 +208,36 @@ public class GameManager : MonoBehaviour
         }
     }
 
+    [SerializeField]
+    GameObject floatingTextPrefab;
+    [SerializeField]
+    Canvas canvas;
+
+    public void CreateFloatingText(int score, Vector3 gamePiecePosition)
+    {
+        GameObject textObj = Instantiate(floatingTextPrefab, canvas.transform);
+        TextMeshProUGUI textMesh = textObj.GetComponent<TextMeshProUGUI>();
+        textMesh.text = "+" + score.ToString();
+
+        Camera mainCamera = Camera.main;  // Make sure this is the camera rendering the objects
+        Vector2 screenPosition = RectTransformUtility.WorldToScreenPoint(mainCamera, gamePiecePosition);
+        
+        RectTransform rectTransform = textObj.GetComponent<RectTransform>();
+        Vector2 adjustedPosition = screenPosition - canvas.GetComponent<RectTransform>().sizeDelta / 2f;
+        Destroy(textObj, 2f); // Destroys the text after 2 seconds
+
+         // Adjust these values as necessary to position the text correctly
+        float offsetX = 100f; // Adjust this value as needed
+        float offsetY = 130f; // Adjust this value as needed
+
+        rectTransform.anchoredPosition = new Vector2(adjustedPosition.x + offsetX, adjustedPosition.y + offsetY);
+
+    }
+    
     public void CalculatePoints(Piece piece)
     {
         int bonus = 1;
+        int points = piece.Points; // Assume piece.Points is the base points value for the piece
 
         if (piece.HasConnectedTile(_currentBonusTileBoardSpace))
         {
@@ -221,9 +250,14 @@ public class GameManager : MonoBehaviour
             ManagerLocator.Instance.Sound.DropPieceToBoard();
         }
 
-        ManagerLocator.Instance.Stats.AddPackagePoints(bonus * piece.Points);
+        int totalPoints = bonus * points;
+        ManagerLocator.Instance.Stats.AddPackagePoints(totalPoints);
         ManagerLocator.Instance.Stats.AddMultiplier(piece.GetTilesCount());
         ManagerLocator.Instance.Stats.UpdateDeliveryPoints();
+
+        // Now, we create and display the floating text with the total points
+        Vector3 piecePosition = piece.transform.position; // Assuming piece has a reference to its transform
+        CreateFloatingText(totalPoints, piecePosition);
     }
 
     public void Swallow()
