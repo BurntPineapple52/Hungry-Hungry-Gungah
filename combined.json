@@ -1,0 +1,1638 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Coconut Chicken Curry",
+        "url": "https://www.umami.recipes/recipe/XiKj7VdiPMtGmYoSaPVz",
+        "image": [
+            "https://www.umami.recipes/api/image/recipes/XiKj7VdiPMtGmYoSaPVz/images/3qGtytq3J4GF1FPfNr5HCo?w=2048&q=75"
+        ],
+        "author": {
+            "@type": "Person",
+            "name": "Max Roth"
+        },
+        "datePublished": "2024-01-16T16:47:41.554Z",
+        "prepTime": "P0Y0M0DT0H15M0S",
+        "cookTime": "P0Y0M0DT0H15M0S",
+        "totalTime": "P0Y0M0DT0H30M0S",
+        "keywords": "Coconut Chicken Curry, Max's Meals",
+        "recipeYield": "4 servings",
+        "recipeCategory": "Max's Meals",
+        "nutrition": {
+            "@context": "https://schema.org",
+            "@type": "NutritionInformation",
+            "calories": "464 kcal",
+            "carbohydrateContent": "13 g",
+            "cholesterolContent": "73 mg",
+            "fatContent": "35 g",
+            "fiberContent": "2 g",
+            "proteinContent": "27 g",
+            "saturatedFatContent": "28 g",
+            "sodiumContent": "149 mg",
+            "sugarContent": "6 g"
+        },
+        "recipeIngredient": [
+            "3 tablespoons coconut oil (separated)",
+            "1/2 medium yellow onion (diced, ~1/2 cup)",
+            "3 cloves minced garlic (~1 and 1/2 teaspoons)",
+            "2 tablespoons finely minced ginger (from a 1 and 1/2 inch piece)",
+            "2 teaspoons yellow curry powder",
+            "3 tablespoons red curry paste (I use Thai Kitchen; reduce or increase as desired for spice levels)",
+            "2 teaspoons ground coriander",
+            "1 large red bell pepper",
+            "1 pound boneless skinless chicken breast (or thighs, cut into 1 inch pieces)",
+            "Fine sea salt and freshly cracked pepper",
+            "1 can (13.5 oz.) full-fat coconut milk (NOT lite)",
+            "1 tablespoon lime juice",
+            "1-2 tablespoons brown sugar",
+            "2 teaspoons fish sauce, (optional)",
+            "1/4 cup cilantro and/or basil (diced)",
+            "Serve over/with: cooked basmati rice and naan bread with additional lime wedges",
+            "Optional: chopped peanuts or cashews"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Start by prepping ingredients: Dice the onion, mince the garlic, and mince the ginger. I peel the ginger with a spoon or vegetable peeler and then finely mince it. Thinly slice the red bell pepper into long vertical strips and then cut those strips in half horizontally.",
+                "url": "https://www.umami.recipes/recipe/XiKj7VdiPMtGmYoSaPVz?start=true&step=1"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Heat 2 tablespoons coconut oil in a large deep skillet over medium-high heat. Add the onion and saute for 3-5 minutes or until onions begin to turn golden. Add the garlic and ginger; stir to coat everything with the oil. Lower the heat to low and add in the curry powder, red curry paste, and coriander. Stir often for 2-3 minutes or until lightly toasted and fragrant.",
+                "url": "https://www.umami.recipes/recipe/XiKj7VdiPMtGmYoSaPVz?start=true&step=2"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Return the heat to medium high. Add in the remaining 1 tablespoon coconut oil and the red bell pepper. Stir for 1-2 minutes and then add in the bite-sized pieces of chicken. Sprinkle on salt and pepper to taste (I add 1 teaspoon fine sea salt and 1/2 teaspoon pepper). Cook, stirring often for about 4-5 minutes or until the chicken is browned on both sides, but not cooked through.",
+                "url": "https://www.umami.recipes/recipe/XiKj7VdiPMtGmYoSaPVz?start=true&step=3"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Pour in the coconut milk, lime juice, and brown sugar (to taste; I start with just 1 tablespoon). Stir until chicken is cooked through (juices run clear and it is cooked to 165 degrees F) and curry is slightly thickened (See Note 1). If desired, stir in the fish sauce.",
+                "url": "https://www.umami.recipes/recipe/XiKj7VdiPMtGmYoSaPVz?start=true&step=4"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Serve over rice and/or with naan. Garnish individual plates with cilantro, basil, and/or crushed peanuts/cashews. Serve additional lime wedges by the side if desired.",
+                "url": "https://www.umami.recipes/recipe/XiKj7VdiPMtGmYoSaPVz?start=true&step=5"
+            }
+        ]
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Who Loves Ya Baby-Back?",
+        "url": "https://www.umami.recipes/recipe/KgPwWdjARTzSmZs7VFet",
+        "image": [],
+        "author": {
+            "@type": "Person",
+            "name": "Max Roth"
+        },
+        "datePublished": "2024-08-01T17:50:07.097Z",
+        "prepTime": "P0Y0M0DT1H10M0S",
+        "cookTime": "P0Y0M0DT3H25M0S",
+        "totalTime": "P0Y0M0DT4H35M0S",
+        "keywords": "Who Loves Ya Baby-Back?, Max's Meals",
+        "recipeYield": "2 servings",
+        "recipeCategory": "Max's Meals",
+        "nutrition": {
+            "@context": "https://schema.org",
+            "@type": "NutritionInformation",
+            "calories": "308",
+            "carbohydrateContent": "8g",
+            "cholesterolContent": "82mg",
+            "fatContent": "20g",
+            "fiberContent": "0g",
+            "proteinContent": "23g",
+            "saturatedFatContent": "7g",
+            "sodiumContent": "335mg",
+            "sugarContent": "7g"
+        },
+        "recipeIngredient": [
+            "2 whole slabs pork baby back ribs",
+            "8 tablespoons light brown sugar, tightly packed",
+            "3 tablespoons kosher salt",
+            "1 tablespoon chili powder",
+            "1/2 teaspoon ground black pepper",
+            "1/2 teaspoon cayenne pepper",
+            "1/2 teaspoon jalapeno seasoning",
+            "1/2 teaspoon Old Bay Seasoning",
+            "1/2 teaspoon rubbed thyme",
+            "1/2 teaspoon onion powder",
+            "1 cup white wine",
+            "2 tablespoons white wine vinegar",
+            "2 tablespoons Worcestershire sauce",
+            "1 tablespoon honey",
+            "2 cloves garlic, chopped"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Preheat oven to 250 degrees.",
+                "url": "https://www.umami.recipes/recipe/KgPwWdjARTzSmZs7VFet?start=true&step=1"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "In a bowl, combine all dry ingredients and mix well. Place each slab of baby back ribs on a piece of heavy-duty aluminum foil, shiny side down. Sprinkle each side generously with the dry rub. Pat the dry rub into the meat. Refrigerate the ribs for a minimum of 1 hour. In a microwavable container, combine all ingredients for the braising liquid. Microwave on high for 1 minute.",
+                "url": "https://www.umami.recipes/recipe/KgPwWdjARTzSmZs7VFet?start=true&step=2"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Place the ribs on a baking sheet. Open one end of the foil on each slab and pour half of the braising liquid into each foil packet. Tilt the baking sheet in order to equally distribute the braising liquid. Braise the ribs in the oven for 2 1/2 hours.",
+                "url": "https://www.umami.recipes/recipe/KgPwWdjARTzSmZs7VFet?start=true&step=3"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Transfer the braising liquid into a medium saucepot. Bring the liquid to a simmer and reduce by half or until of a thick syrup consistency. Brush the glaze onto the ribs. Place under the broiler just until the glaze caramelizes lightly. Slice each slab into 2 rib bone portions. Place the remaining hot glaze into a bowl and toss the rib portions in the glaze.",
+                "url": "https://www.umami.recipes/recipe/KgPwWdjARTzSmZs7VFet?start=true&step=4"
+            }
+        ]
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Japanese Beef Curry",
+        "url": "https://www.umami.recipes/recipe/yluE42D0tnZQazeoiYrl",
+        "image": [
+            "https://www.umami.recipes/api/image/recipes/yluE42D0tnZQazeoiYrl/images/2o3LR72HNwR9vNmkNwKxDY?w=2048&q=75"
+        ],
+        "author": {
+            "@type": "Person",
+            "name": "Max Roth"
+        },
+        "datePublished": "2024-01-16T17:24:17.613Z",
+        "prepTime": "P0Y0M0DT0H0M0S",
+        "cookTime": "P0Y0M0DT3H0M0S",
+        "totalTime": "P0Y0M0DT3H0M0S",
+        "keywords": "Japanese Beef Curry, Max's Meals",
+        "recipeYield": "8 servings",
+        "recipeCategory": "Max's Meals",
+        "nutrition": {
+            "@context": "https://schema.org",
+            "@type": "NutritionInformation",
+            "calories": "426 kcal",
+            "carbohydrateContent": "28 g",
+            "cholesterolContent": "73 mg",
+            "fatContent": "20 g",
+            "fiberContent": "4 g",
+            "proteinContent": "23 g",
+            "saturatedFatContent": "10 g",
+            "sodiumContent": "938 mg",
+            "sugarContent": "10 g",
+            "transFatContent": "1 g",
+            "unsaturatedFatContent": "9 g"
+        },
+        "recipeIngredient": [
+            "2 onions (large; 1\u00bc lb, 567 g) 1\u00bc 567",
+            "2 Tbsp unsalted butter (divided)",
+            "2 Tbsp neutral oil (divided)",
+            "1 russet potato (11 oz, 309 g) 11 309",
+            "1 carrot (large; 8 oz, 230 g) 8 230",
+            "6 cremini mushrooms (2.6 oz, 80 g) 2.6 80",
+            "\u00bd tsp ginger (grated, with juice)",
+            "1 clove garlic (minced)",
+            "1\u00bc lb boneless beef chuck roast",
+            "\u00bc tsp Diamond Crystal kosher salt",
+            "\u00bc tsp freshly ground black pepper",
+            "1 Tbsp all-purpose flour (plain flour)",
+            "\u00bd cup red wine",
+            "\u00bd Tbsp Japanese curry powder",
+            "1 Tbsp tomato paste (or ketchup)",
+            "4 cups beef stock/broth (1 QT; for lower sodium, use water only or half stock and half water) 1",
+            "\u215b apple (plus more for sweetness; I use Fuji apple; or substitute 1 Tbsp honey or mango chutney) 1",
+            "1 Tbsp Worcestershire sauce",
+            "2 Tbsp milk",
+            "1 bay leaf",
+            "1 package Japanese curry roux (7\u20138.4 oz, 200\u2013240 g; or make my Japanese Curry Roux) 7\u20138.4 200\u2013240",
+            "8 servings cooked Japanese short-grain rice (1\u20131\u00bd cups, 180\u2013270 g per serving)",
+            "fukujinzuke (Japanese red pickled vegetables) (optional; make my Homemade Fukujinzuke)",
+            "rakkyo (Japanese pickled scallion) (optional)"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Gather all the ingredients.",
+                "url": "https://www.umami.recipes/recipe/yluE42D0tnZQazeoiYrl?start=true&step=1"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "To Prepare the Ingredients",
+                "url": "https://www.umami.recipes/recipe/yluE42D0tnZQazeoiYrl?start=true&step=2"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Cut 2 onions into thin slices.",
+                "url": "https://www.umami.recipes/recipe/yluE42D0tnZQazeoiYrl?start=true&step=3"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Preheat a large heavy-bottomed pot (I used a 5.5 QT Staub Dutch oven) on medium heat. When the pot is hot, add half of the 2 Tbsp unsalted butter, half of the 2 Tbsp neutral oil, and the onions to the pot. Stir to coat the onions.",
+                "url": "https://www.umami.recipes/recipe/yluE42D0tnZQazeoiYrl?start=true&step=4"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Saut\u00e9 the onions, stirring once in a while, for about 20\u201325 minutes. Meanwhile, move on to the next step (but stir the onions and keep an eye on them). When the onions are wilted, reduce the stove\u2018s heat to medium low (as they tend to burn quickly). Once the onions are tender, translucent, and a bit caramelized, remove the pot from the heat and set aside until the beef is done searing.",
+                "url": "https://www.umami.recipes/recipe/yluE42D0tnZQazeoiYrl?start=true&step=5"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Peel and cut 1 russet potato in thirds.",
+                "url": "https://www.umami.recipes/recipe/yluE42D0tnZQazeoiYrl?start=true&step=6"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Then, cut each piece in half or quarters. Soak the pieces in water for 15 minutes (or until added to the pot later on) to remove the starch. Drain and set aside.",
+                "url": "https://www.umami.recipes/recipe/yluE42D0tnZQazeoiYrl?start=true&step=7"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Peel and cut 1 carrot diagonally while rotating it a quarter turn between cuts (we call this cutting technique rangiri in Japanese).",
+                "url": "https://www.umami.recipes/recipe/yluE42D0tnZQazeoiYrl?start=true&step=8"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Clean 6 cremini mushrooms and cut them into thin slices. Tip: I use a pastry brush and avoid washing mushrooms as they absorb moisture. However, it\u2018s okay to quickly rinse them.",
+                "url": "https://www.umami.recipes/recipe/yluE42D0tnZQazeoiYrl?start=true&step=9"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Grate the ginger (I use a ceramic grater) and measure \u00bd tsp ginger (grated, with juice). Set aside. Then, mince 1 clove garlic (I skip it here as I use a garlic press later).",
+                "url": "https://www.umami.recipes/recipe/yluE42D0tnZQazeoiYrl?start=true&step=10"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Cut 1\u00bc lb boneless beef chuck roast into 1\u00bd-inch (3.8 cm) cubes. Tip: I recommend chuck roast for its tenderness and higher quality. You could use stew beef since it\u2018s slightly more economical; however, it\u2018s made up of bits and pieces leftover from carving the chuck roasts, so the meat is not as tender.",
+                "url": "https://www.umami.recipes/recipe/yluE42D0tnZQazeoiYrl?start=true&step=11"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Lightly sprinkle the beef with \u00bc tsp Diamond Crystal kosher salt and \u00bc tsp freshly ground black pepper. Then, lightly coat the meat with 1 Tbsp all-purpose flour (plain flour).",
+                "url": "https://www.umami.recipes/recipe/yluE42D0tnZQazeoiYrl?start=true&step=12"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "To Sear the Beef",
+                "url": "https://www.umami.recipes/recipe/yluE42D0tnZQazeoiYrl?start=true&step=13"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Preheat a carbon steel pan (or cast-iron skillet) on medium-high heat. When the skillet is hot, add the remaining half of the oil and butter. Cook the beef in 2 batches. Add the beef cubes in a single layer, making sure not to crowd the skillet; otherwise, the excess moisture in the pan will end up \u201csteaming\u201c the meat.",
+                "url": "https://www.umami.recipes/recipe/yluE42D0tnZQazeoiYrl?start=true&step=14"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sear the beef cubes (do not move them) on one side until brown and crusty, about 3\u20134 minutes, then turn them over to cook all sides. The meat will release itself from the pan when the surface is seared nicely. Transfer the seared meat to a plate and work on the next batch.",
+                "url": "https://www.umami.recipes/recipe/yluE42D0tnZQazeoiYrl?start=true&step=15"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Once you\u2018ve seared and transferred all the meat, deglaze the pan. Add \u00bd cup red wine to the pan and use a wooden blunt-end spatula to release the flavorful browned bits (called the \u201cfond\u201c) that are stuck to the bottom of the pan. Turn off the heat and set aside this deglazed pan liquid temporarily.",
+                "url": "https://www.umami.recipes/recipe/yluE42D0tnZQazeoiYrl?start=true&step=16"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "To Cook the Curry",
+                "url": "https://www.umami.recipes/recipe/yluE42D0tnZQazeoiYrl?start=true&step=17"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "By now, the onions in the pot should be caramelized and ready for the next step. Reheat the pot on the stove over medium heat. Add the minced garlic (I use a garlic press) and grated ginger.",
+                "url": "https://www.umami.recipes/recipe/yluE42D0tnZQazeoiYrl?start=true&step=18"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add \u00bd Tbsp Japanese curry powder and 1 Tbsp tomato paste and saut\u00e9 for 1 minute.",
+                "url": "https://www.umami.recipes/recipe/yluE42D0tnZQazeoiYrl?start=true&step=19"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add the seared beef, any juices from the plate, and the deglazed pan liquid to the pot and mix them all together. Cook, stirring occasionally, for 3 minutes, letting the alcohol from the wine evaporate.",
+                "url": "https://www.umami.recipes/recipe/yluE42D0tnZQazeoiYrl?start=true&step=20"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add the carrots and mushrooms and mix them all together. Add 4 cups beef stock/broth (or half stock/half water) to just cover the ingredients. Cover the pot with a tight-fitting lid and bring it to a boil. Tip: Compared to Le Creuset, I think Staub has a great seal on the lid and prevents evaporation.",
+                "url": "https://www.umami.recipes/recipe/yluE42D0tnZQazeoiYrl?start=true&step=21"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Once boiling, skim off the scum and fat from the broth. I prepare a 2-cup measuring cup with water in it and clean my fine-mesh skimmer in the water. It\u2019s easy to remove the scum/fat from the skimmer this way.",
+                "url": "https://www.umami.recipes/recipe/yluE42D0tnZQazeoiYrl?start=true&step=22"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Grate \u215b apple and add it to the broth. Then, add 1 Tbsp Worcestershire sauce and 2 Tbsp milk.",
+                "url": "https://www.umami.recipes/recipe/yluE42D0tnZQazeoiYrl?start=true&step=23"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add 1 bay leaf and cover the pot with the tight-fitting lid. Simmer on low heat until the meat is tender, about 1 hour and 45 minutes. If you do not have a tight-fitting lid, you may need to add more beef stock or water, enough to just cover the ingredients. Tip: To get tender beef, 2 hours of simmering is standard.",
+                "url": "https://www.umami.recipes/recipe/yluE42D0tnZQazeoiYrl?start=true&step=24"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "When the beef is tender, add the potatoes, close the lid, and simmer for 15 minutes until the potatoes are cooked through.",
+                "url": "https://www.umami.recipes/recipe/yluE42D0tnZQazeoiYrl?start=true&step=25"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "When the potatoes are tender (and a wooden skewer can pierce through the potato), turn off the heat and discard the bay leaf.",
+                "url": "https://www.umami.recipes/recipe/yluE42D0tnZQazeoiYrl?start=true&step=26"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Now, add 1 package Japanese curry roux: Put 1\u20132 cubes of roux in a ladleful of cooking liquid, slowly let it dissolve with a spoon or chopsticks, and stir it into the broth to incorporate. Repeat with the rest of the roux, 2 cubes at a time. Adjust the amount to your taste. You may not need to use all of it; reserve the extra for another use. After adding the curry roux, simmer on the lowest heat, stirring often, for 3\u20135 minutes until the sauce thickens. Be careful not to burn the curry sauce! If it\u2018s too thick, add water to dilute. If it\u2018s too thin and soupy, uncover the pot and simmer a bit longer.",
+                "url": "https://www.umami.recipes/recipe/yluE42D0tnZQazeoiYrl?start=true&step=27"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "To Serve",
+                "url": "https://www.umami.recipes/recipe/yluE42D0tnZQazeoiYrl?start=true&step=28"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Serve the curry on individual plates over 8 servings cooked Japanese short-grain rice and top with optional fukujinzuke (Japanese red pickled vegetables) and rakkyo (Japanese pickled scallion).",
+                "url": "https://www.umami.recipes/recipe/yluE42D0tnZQazeoiYrl?start=true&step=29"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "To Store",
+                "url": "https://www.umami.recipes/recipe/yluE42D0tnZQazeoiYrl?start=true&step=30"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Keep the leftovers in an airtight glass container and store it in the refrigerator for up to 3 days or in the freezer for a month. The texture of the potatoes will change in the freezer, so remove them before freezing. Defrost the frozen curry in the refrigerator for 24 hours before you want to reheat it. If you have any extra roux, keep it in an airtight container and store in the refrigerator or freezer for 1\u20133 months.",
+                "url": "https://www.umami.recipes/recipe/yluE42D0tnZQazeoiYrl?start=true&step=31"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "To Reheat",
+                "url": "https://www.umami.recipes/recipe/yluE42D0tnZQazeoiYrl?start=true&step=32"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Leftover curry sauce will thicken into a paste as it cools, so it tends to burn while reheating. To avoid this, stir \u00bd cup (120 ml) water or more into the leftover sauce until loosened. Then, gently reheat it on low heat. If the sauce seems thin, continue heating with the lid off to reduce the sauce.",
+                "url": "https://www.umami.recipes/recipe/yluE42D0tnZQazeoiYrl?start=true&step=33"
+            }
+        ]
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Creamy White Chicken Chili",
+        "url": "https://www.umami.recipes/recipe/aTr19dlfofBFQ7OiotMR",
+        "image": [
+            "https://www.umami.recipes/api/image/recipes/aTr19dlfofBFQ7OiotMR/images/11CMKHiWjCCk7FxIaov3vZ?w=2048&q=75"
+        ],
+        "author": {
+            "@type": "Person",
+            "name": "Max Roth"
+        },
+        "datePublished": "2024-12-30T17:24:12.953Z",
+        "prepTime": "P0Y0M0DT0H15M0S",
+        "cookTime": "P0Y0M0DT0H30M0S",
+        "totalTime": "P0Y0M0DT0H45M0S",
+        "keywords": "Creamy White Chicken Chili, Max's Meals",
+        "recipeYield": "6 servings",
+        "recipeCategory": "Max's Meals",
+        "nutrition": {
+            "@context": "https://schema.org",
+            "@type": "NutritionInformation",
+            "calories": "547 kcal"
+        },
+        "recipeIngredient": [
+            "2 tablespoons extra virgin olive oil",
+            "1 medium yellow onion, chopped",
+            "4 cloves garlic, minced or grated",
+            "2 poblano peppers, seeded and chopped",
+            "1 jalape\u00f1o, seeded, if desired and chopped",
+            "2 teaspoons ground cumin",
+            "1 teaspoon smoked paprika",
+            "1/2 teaspoon chili powder",
+            "kosher salt and black pepper",
+            "1 pound boneless, skinless, chicken breasts or thighs",
+            "4-6 cups low-sodium chicken broth",
+            "4 ounces cream cheese, at room temperature",
+            "1 can white beans, drained",
+            "1/2 cup salsa verde",
+            "1 cup shredded cheddar cheese",
+            "1/2 cup fresh cilantro, chopped",
+            "avocado, cheddar cheese, and yogurt, for serving",
+            "lime zest and juice, for serving"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Stove",
+                "url": "https://www.umami.recipes/recipe/aTr19dlfofBFQ7OiotMR?start=true&step=1"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "1. Heat the olive oil in a large pot over medium heat. Add the onion and cook until fragrant, about 5 minutes. Stir in the garlic, poblano peppers, cumin, paprika, chili powder, and a pinch each of salt and pepper. Cook 5-10 minutes, until very fragrant. Add the chicken, then stir in 4 cups broth. Season with more salt and pepper. Partially cover and simmer over medium-low heat for 20 minutes, until the chicken is cooked through.2. Melt the cream cheese in the microwave for 10-15 seconds. 3. Pull the chicken out and shred using 2 forks. Stir in the cream cheese until smooth, then stir in the shredded chicken, white beans, salsa verde, and cheddar cheese. Cook 5-10 minutes, until the cheese is melted. Remove from the heat and stir in the cilantro. If needed, thin with additional broth. 4. Ladle the chili into bowls. Top, as desired, with yogurt/sour cream, cheese, avocado, cilantro, and green onions. Zest lime over each bowl. Eat and enjoy!",
+                "url": "https://www.umami.recipes/recipe/aTr19dlfofBFQ7OiotMR?start=true&step=2"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Slow Cooker",
+                "url": "https://www.umami.recipes/recipe/aTr19dlfofBFQ7OiotMR?start=true&step=3"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "1. In the bowl of your crockpot, combine the onion, garlic, poblano peppers, cumin, paprika, and chili powder. Add the chicken, then stir in 4 cups broth and cream cheese. Season with salt and pepper. 2. Cover and cook on low for 6-7 hours or high for 4-5 hours.3. Shred the chicken using two forks. Stir in the white beans, salsa verde, cheddar, and cilantro.4. Ladle the chili into bowls. Top, as desired, with yogurt/sour cream, cheese, avocado, cilantro, and green onions. Zest lime over each bowl. Eat and enjoy!",
+                "url": "https://www.umami.recipes/recipe/aTr19dlfofBFQ7OiotMR?start=true&step=4"
+            }
+        ],
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "ratingCount": 1,
+            "bestRating": 5,
+            "worstRating": 1
+        }
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Extra Cheesy Grilled Cheese",
+        "url": "https://www.umami.recipes/recipe/RmD9HsGPlL1h50TjDGNr",
+        "image": [],
+        "author": {
+            "@type": "Person",
+            "name": "Max Roth"
+        },
+        "datePublished": "2024-01-16T17:43:28.246Z",
+        "prepTime": "P0Y0M0DT0H10M0S",
+        "cookTime": "P0Y0M0DT0H0M0S",
+        "totalTime": "P0Y0M0DT0H10M0S",
+        "keywords": "Extra Cheesy Grilled Cheese, Max's Meals",
+        "recipeYield": "2",
+        "recipeCategory": "Max's Meals",
+        "recipeIngredient": [
+            "MAKES 2 SANDWICHES",
+            "2 tablespoons unsalted butter",
+            "4 slices high-quality white, whole wheat, or rye sandwich bread",
+            "4 ounces sliced Category A cheese (see Note above)",
+            "Kosher salt",
+            "\u00bd ounce category B cheese, grated (optional; see Note above)",
+            "Brown mustard"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "1. Melt \u00bd tablespoon of the butter in a 12-inch stainless steel or cast-iron skillet over medium heat. Add 2 bread slices and swirl them around the pan with your hands until all the butter is absorbed. Cook, swirling the bread occasionally, until very lightly browned, about 1 minute.",
+                "url": "https://www.umami.recipes/recipe/RmD9HsGPlL1h50TjDGNr?start=true&step=1"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Remove to a cutting board, toasted side up, and immediately top with the sliced A cheese. Melt another \u00bd tablespoon butter in the skillet and toast the remaining 2 bread slices until lightly browned, then immediately press them toasted side down onto the cheese-topped slices to form sandwiches.",
+                "url": "https://www.umami.recipes/recipe/RmD9HsGPlL1h50TjDGNr?start=true&step=2"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "2. Melt another \u00bd tablespoon butter in the skillet and sprinkle with a pinch of salt. Reduce the heat to medium-low and place the sandwiches in the skillet. Swirl them around with your hands until all the butter is absorbed. Cook the sandwiches, swirling them with your hands and pressing down on them gently with a wide stiff spatula occasionally, until the bottoms are a deep, even golden brown, about 4 minutes. Remove the sandwiches to your cutting board with the spatula. Melt the remaining \u00bd tablespoon butter in the skillet, sprinkle with a bit of salt, and repeat the toasting procedure with the second side, until the sandwiches are golden brown on both sides and the cheese is thoroughly melted, about 4 minutes longer. Transfer the sandwiches to the cutting board.",
+                "url": "https://www.umami.recipes/recipe/RmD9HsGPlL1h50TjDGNr?start=true&step=3"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "3. If desired, spread the grated cheese evenly over a large plate. Press the sandwiches into the grated cheese, turning once and pressing on them until you get an even coating of cheese on both sides. Return the sandwiches to the skillet and cook until the grated cheese has melted and formed a golden brown crust, about 1 minute. Carefully flip the sandwiches and repeat with the second side. Transfer to the cutting board.",
+                "url": "https://www.umami.recipes/recipe/RmD9HsGPlL1h50TjDGNr?start=true&step=4"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "4. Slice the sandwiches in half on the diagonal, and serve immediately, with mustard and the tomato soup.",
+                "url": "https://www.umami.recipes/recipe/RmD9HsGPlL1h50TjDGNr?start=true&step=5"
+            }
+        ]
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Classic Chicken Noodle Soup",
+        "url": "https://www.umami.recipes/recipe/EtOEGPl75iLldaAmQvz6",
+        "image": [
+            "https://www.umami.recipes/api/image/recipes/EtOEGPl75iLldaAmQvz6/images/XPyHcv0FVqTWVqcjwCbaQj?w=2048&q=75"
+        ],
+        "author": {
+            "@type": "Person",
+            "name": "Max Roth"
+        },
+        "datePublished": "2024-01-16T17:36:17.495Z",
+        "prepTime": "P0Y0M0DT0H0M0S",
+        "cookTime": "P0Y0M0DT0H0M0S",
+        "totalTime": "P0Y0M0DT0H0M0S",
+        "keywords": "Classic Chicken Noodle Soup, Max's Meals",
+        "recipeYield": "6 servings",
+        "recipeCategory": "Max's Meals",
+        "nutrition": {
+            "@context": "https://schema.org",
+            "@type": "NutritionInformation"
+        },
+        "recipeIngredient": [
+            "1 3\u20134-lb. whole chicken",
+            "4 tsp. kosher salt, plus more",
+            "2 medium onions",
+            "4 medium carrots",
+            "4 celery stalks, divided",
+            "2 heads of garlic",
+            "1 Tbsp. black peppercorns",
+            "\u00bd small bunch dill, divided",
+            "6 oz. ditalini",
+            "Freshly ground black pepper"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Season one 3\u20134-lb. chicken all over with 4 tsp salt.",
+                "url": "https://www.umami.recipes/recipe/EtOEGPl75iLldaAmQvz6?start=true&step=1"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Time to do some prep work: Cut 2 medium onions into quarters. (There's no need to remove the onion skins, which lend the broth a golden hue, but you can if you'd like.) Peel 4 medium carrots. Coarsely chop 2; set remaining 2 aside. Coarsely chop 2 celery stalks. Cut 2 heads of garlic in half crosswise.",
+                "url": "https://www.umami.recipes/recipe/EtOEGPl75iLldaAmQvz6?start=true&step=2"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Combine chicken, cut vegetables, 1 Tbsp. black peppercorns, and 2 dill sprigs in a large pot. Cover with 14 cups cold water and bring to a simmer over medium-high heat. Cook, reducing heat as needed to maintain a simmer and using a large spoon to skim off any foam that rises to surface of pot, until an instant-read thermometer inserted into thickest part of breast registers 155\u00b0, 20\u201325 minutes.",
+                "url": "https://www.umami.recipes/recipe/EtOEGPl75iLldaAmQvz6?start=true&step=3"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Using tongs, carefully lift whole chicken out of pot and transfer to a cutting board. Let rest until cool enough to handle.",
+                "url": "https://www.umami.recipes/recipe/EtOEGPl75iLldaAmQvz6?start=true&step=4"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Arrange chicken breast side up. Grab a wing and pull it outward so you can see where it attaches to the body. Using a sharp boning or chef\u2019s knife, cut through the joint to separate wing from breast (if you hit bone, you\u2019re in the wrong spot; pull the wing out farther to help you get to the place where the joint meets the socket). Remove wing; repeat on the other side.",
+                "url": "https://www.umami.recipes/recipe/EtOEGPl75iLldaAmQvz6?start=true&step=5"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Cut through skin connecting 1 leg to carcass. Pull leg back until ball joint pops out of its socket; cut through the joint to separate the leg. Repeat on the other side.",
+                "url": "https://www.umami.recipes/recipe/EtOEGPl75iLldaAmQvz6?start=true&step=6"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Now for the breasts: Cut along left side of breastbone (which runs right down the center of the breast). Angling your knife, cut breast meat away from carcass. Repeat this process, cutting down along the right side of the breast bone for the remaining breast.",
+                "url": "https://www.umami.recipes/recipe/EtOEGPl75iLldaAmQvz6?start=true&step=7"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Pull off and discard any skin from legs and breasts (no need to discard skin of the wings). Return legs, wings, and what remains of the carcass to pot with vegetables. (You should now have only the chicken breasts remaining on your cutting board.)",
+                "url": "https://www.umami.recipes/recipe/EtOEGPl75iLldaAmQvz6?start=true&step=8"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Continue to simmer soup, occasionally skimming fat that rises to the top with large spoon, until reduced by an inch or two and very full-flavored, about 40 minutes.",
+                "url": "https://www.umami.recipes/recipe/EtOEGPl75iLldaAmQvz6?start=true&step=9"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "While soup simmers, shred cooled chicken breasts with 2 forks into bite-sized pieces.",
+                "url": "https://www.umami.recipes/recipe/EtOEGPl75iLldaAmQvz6?start=true&step=10"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Thinly slice remaining 2 celery stalks crosswise. Cut remaining 2 medium carrots into \u00bd\" diagonal pieces. Finely chop enough dill to yield \u00bc cup.",
+                "url": "https://www.umami.recipes/recipe/EtOEGPl75iLldaAmQvz6?start=true&step=11"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Transfer 2 chicken legs to cutting board to cool. Set a fine-mesh sieve over another large pot. Strain soup into second pot, discarding bones, carcass, wings, and vegetables.",
+                "url": "https://www.umami.recipes/recipe/EtOEGPl75iLldaAmQvz6?start=true&step=12"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Bring broth to a boil over medium-high heat. Add 6 oz. ditalini and stir once. Cook 5 minutes.",
+                "url": "https://www.umami.recipes/recipe/EtOEGPl75iLldaAmQvz6?start=true&step=13"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "While ditalini cooks, shred meat off 2 chicken legs; discard bones.",
+                "url": "https://www.umami.recipes/recipe/EtOEGPl75iLldaAmQvz6?start=true&step=14"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add shredded chicken and sliced carrots and celery to pot and cook until pasta is cooked through and vegetables are tender but not mushy, 4\u20135 minutes longer.",
+                "url": "https://www.umami.recipes/recipe/EtOEGPl75iLldaAmQvz6?start=true&step=15"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Remove pot from heat. Stir in dill. Season well with salt (it\u2019s going to take a lot!) and pepper.",
+                "url": "https://www.umami.recipes/recipe/EtOEGPl75iLldaAmQvz6?start=true&step=16"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Divide soup among bowls. Top with more pepper.",
+                "url": "https://www.umami.recipes/recipe/EtOEGPl75iLldaAmQvz6?start=true&step=17"
+            }
+        ]
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "15-MINUTE PANTRY TOMATO SOUP",
+        "url": "https://www.umami.recipes/recipe/xyP1NgHTigOI89uxIo7H",
+        "image": [],
+        "author": {
+            "@type": "Person",
+            "name": "Max Roth"
+        },
+        "datePublished": "2024-01-16T17:41:57.692Z",
+        "prepTime": "P0Y0M0DT0H15M0S",
+        "cookTime": "P0Y0M0DT0H0M0S",
+        "totalTime": "P0Y0M0DT0H15M0S",
+        "keywords": "15-MINUTE PANTRY TOMATO SOUP, Max's Meals",
+        "recipeYield": "4",
+        "recipeCategory": "Max's Meals",
+        "recipeIngredient": [
+            "SERVES 4",
+            "3 tablespoons unsalted butter",
+            "1 large onion, finely diced (about 1",
+            "\u00bd cups)",
+            "Pinch of red pepper flakes",
+            "\u00bd teaspoon dried oregano",
+            "1 tablespoon all-purpose flour",
+            "Two 28-ounce cans whole tomatoes (see Note above), with their juice",
+            "\u00bd cup whole milk or heavy cream Kosher salt and freshly ground black pepper",
+            "2 tablespoons whiskey, vodka, or brandy (optional)",
+            "2 tablespoons extra-virgin olive oil",
+            "2 tablespoons chopped fresh herbs, such as parsley, basil, or chives (optional)",
+            "Extra-Cheesy Grilled Cheese",
+            "Sandwiches (recipe follows)"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "1. Melt the butter in a medium saucepan over medium-high heat. Add the onions and cook, stirring frequently, until softened but not browned, 6 to 8 minutes. Add the pepper flakes and oregano and cook, stirring, until fragrant, about 30 seconds. Add the flour and cook, stirring, for 30 seconds. Add the tomatoes, with their juice, and stir, scraping the flour up off the bottom of the pan. Add the milk or cream and cook, stirring occasionally and breaking up the tomatoes with the spoon, until the whole thing comes to a boil. Reduce to a simmer and cook for 3 minutes.",
+                "url": "https://www.umami.recipes/recipe/xyP1NgHTigOI89uxIo7H?start=true&step=1"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "2. Remove the soup from the heat and puree using an immersion blender.",
+                "url": "https://www.umami.recipes/recipe/xyP1NgHTigOI89uxIo7H?start=true&step=2"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Or transfer to a standing blender, in batches if necessary, and puree, starting on low speed and gradually increasing to high, then return to the pan. Season the soup to taste with salt and pepper. Stir in the whiskey, if using, and bring to a simmer. Serve immediately, topping each serving with a generous drizzle of olive oil, a sprinkle of herbs, and if you like, a crack or two of freshly ground pepper, with the sandwiches alongside.",
+                "url": "https://www.umami.recipes/recipe/xyP1NgHTigOI89uxIo7H?start=true&step=3"
+            }
+        ]
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "3-Ingredient Stovetop Mac and Cheese Recipe",
+        "url": "https://www.umami.recipes/recipe/jzMpy1Y8l9SEqNcrgGUT",
+        "image": [
+            "https://www.umami.recipes/api/image/recipes/jzMpy1Y8l9SEqNcrgGUT/images/aSy0XyGxJc58qxM99MG4J?w=2048&q=75"
+        ],
+        "author": {
+            "@type": "Person",
+            "name": "Max Roth"
+        },
+        "datePublished": "2024-06-13T22:50:42.315Z",
+        "prepTime": "P0Y0M0DT0H0M0S",
+        "cookTime": "P0Y0M0DT0H15M0S",
+        "totalTime": "P0Y0M0DT0H15M0S",
+        "keywords": "3-Ingredient Stovetop Mac and Cheese Recipe, Max's Meals",
+        "recipeYield": "2 servings",
+        "recipeCategory": "Max's Meals",
+        "nutrition": {
+            "@context": "https://schema.org",
+            "@type": "NutritionInformation",
+            "calories": "699 kcal",
+            "carbohydrateContent": "57 g",
+            "cholesterolContent": "112 mg",
+            "fatContent": "37 g",
+            "fiberContent": "3 g",
+            "proteinContent": "34 g",
+            "saturatedFatContent": "21 g",
+            "servingSize": "Serves 2",
+            "sodiumContent": "1238 mg",
+            "sugarContent": "11 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "recipeIngredient": [
+            "6 ounces (170g) elbow macaroni",
+            "Salt",
+            "6 ounces (180ml) evaporated milk",
+            "6 ounces (170g) grated mild or medium cheddar cheese, or any good melting cheese, such as Fontina, Gruy\u00e8re, or Jack"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Place macaroni in a medium saucepan or skillet and add just enough cold water to cover. Add a pinch of salt and bring to a boil over high heat, stirring frequently. Continue to cook, stirring, until water has been almost completely absorbed and macaroni is just shy of al dente, about 6 minutes.",
+                "url": "https://www.umami.recipes/recipe/jzMpy1Y8l9SEqNcrgGUT?start=true&step=1"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Immediately add evaporated milk and bring to a boil. Add cheese. Reduce heat to low and cook, stirring continuously, until cheese is melted and liquid has reduced to a creamy sauce, about 2 minutes longer. Season to taste with more salt and serve immediately.",
+                "url": "https://www.umami.recipes/recipe/jzMpy1Y8l9SEqNcrgGUT?start=true&step=2"
+            }
+        ]
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "EASY WEEKNIGHT GROUND BEEF CHILI",
+        "url": "https://www.umami.recipes/recipe/VWmtdbCgcx9EefInjGYZ",
+        "image": [],
+        "author": {
+            "@type": "Person",
+            "name": "Max Roth"
+        },
+        "datePublished": "2024-01-16T17:14:01.785Z",
+        "prepTime": "P0Y0M0DT0H10M0S",
+        "cookTime": "P0Y0M0DT0H20M0S",
+        "totalTime": "P0Y0M0DT0H30M0S",
+        "keywords": "EASY WEEKNIGHT GROUND BEEF CHILI, Max's Meals",
+        "recipeYield": "SERVES 4 TO 6",
+        "recipeCategory": "Max's Meals",
+        "recipeIngredient": [
+            "4 tablespoons unsalted butter",
+            "2 medium onions, grated on the large holes of a box grater (about 1\u00bd cups)",
+            "2 large cloves garlic, minced or grated on a Microplane (about 4 teaspoons)",
+            "1 teaspoon dried oregano",
+            "Kosher salt",
+            "2 chipotle chiles packed in adobo, finely chopped",
+            "2 anchovy fillets, mashed to a paste with the back of a fork",
+            "\u00bd cup Chile Paste (page 259) or 1/4 cup chili powder",
+            "1 tablespoon ground cumin",
+            "\u00bd cup tomato paste",
+            "2 pounds boneless ground chuck",
+            "One 28-ounce can whole tomatoes, drained and chopped into \u00bd-inch pieces",
+            "One 15-ounce can red kidney beans, drained",
+            "1 cup homemade or low-sodium canned chicken stock, or water",
+            "2 to 3 tablespoons instant cornmeal (such as Maseca)",
+            "2 tablespoons whiskey, vodka, or brandy (optional)",
+            "Freshly ground black pepper",
+            "Garnishes as desired (see the headnote)"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "1. Melt the butter in a large Dutch oven over medium-high heat. Add the onions, garlic, oregano, and a pinch of salt and cook, stiring fo-quently until the onions are light golden brown, about 5 minutes. Add the chipotles, anchovies, chile paste, and cumin and cook, stirring, unil. aromatic, about 1 minute. Add the tomato paste and cook, stirring until homogeneous, about 1 minute.",
+                "url": "https://www.umami.recipes/recipe/VWmtdbCgcx9EefInjGYZ?start=true&step=1"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "2. Add the ground beef and cook, using a wooden spoon to break up the beef into pieces and stirring frequently, until no longer pink (do not try to brown the beef), about 5 minutes. Add the tomatoes, beans, stock, and cornmeal and stir to combine. Bring to a boil, reduce to a simmer, and cook, stirring occasionally, until the flavors have developed and the chili is thickened, about 30 minutes.",
+                "url": "https://www.umami.recipes/recipe/VWmtdbCgcx9EefInjGYZ?start=true&step=2"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "3. Stir in the whiskey, if using. Serve with some or all of the suggested gar-nishes, along with corn chips or tortillas.",
+                "url": "https://www.umami.recipes/recipe/VWmtdbCgcx9EefInjGYZ?start=true&step=3"
+            }
+        ],
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "ratingCount": 1,
+            "bestRating": 5,
+            "worstRating": 1
+        }
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "WEEKNIGHT SPAGHETTI WITH MEAT SAUCE",
+        "url": "https://www.umami.recipes/recipe/j6RMaZarLnWfLXjcYUyO",
+        "image": [],
+        "author": {
+            "@type": "Person",
+            "name": "Max Roth"
+        },
+        "datePublished": "2024-01-16T17:45:41.264Z",
+        "prepTime": "P0Y0M0DT0H0M0S",
+        "cookTime": "P0Y0M0DT0H59M59S",
+        "totalTime": "P0Y0M0DT1H0M0S",
+        "keywords": "WEEKNIGHT SPAGHETTI WITH MEAT SAUCE, Max's Meals",
+        "recipeYield": "4",
+        "recipeCategory": "Max's Meals",
+        "recipeIngredient": [
+            "1 small onion, quartered",
+            "1 small carrot, peeled and roughly chopped",
+            "1 stalk celery, roughly chopped",
+            "2 anchovy fillets (optional)",
+            "2 medium cloves garlic",
+            "\u00bd teaspoon dried oregano",
+            "Pinch of red pepper flakes",
+            "8 ounces button mushrooms, stemmed and quartered",
+            "10 ounces ground chuck",
+            "2 tablespoons extra-virgin olive oil",
+            "2 tablespoons unsalted butter",
+            "2 tablespoons tomato paste",
+            "One 28-ounce can whole tomatoes packed in juice, crushed by hand, in a food processor, or with a potato masher into rough \u00bd-inch chunks",
+            "1 tablespoon Asian fish sauce",
+            "\u00bc cup grated Parmigiano-",
+            "Reggiano, plus more for serving Kosher salt and freshly ground black pepper",
+            "1 pound spaghetti, linguine, penne, or other long skinny or short tubular pasta",
+            "Chopped fresh parsley or basil for serving"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "1. Place the onion, carrot, celery, anchovies, if using, garlic, oregano, and pepper flakes in the bowl of a food processor and pulse until finely chopped, 8 to 10 short pulses, scraping down the sides as necessary.",
+                "url": "https://www.umami.recipes/recipe/j6RMaZarLnWfLXjcYUyO?start=true&step=1"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Transfer to a bowl. Add the mushrooms to the empty food processor bowl of and pulse until finely chopped, 6 to 8 short pulses. Add the meat to the processor and pulse until the meat and mushrooms are evenly mixed, 6 to 8 short pulses. Set aside.",
+                "url": "https://www.umami.recipes/recipe/j6RMaZarLnWfLXjcYUyO?start=true&step=2"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "2. Heat the olive oil and butter in a Dutch oven over medium-high heat until the butter has melted and the foaming subsides. Add the chopped vegetables and cook, stirring frequently, until softened but not browned, about 5 minutes. Add the tomato paste and stir until homogeneous, about 1 minute. Add the meat/mushroom mixture and cook, stirring occasionally, until the moisture has completely evaporated and the mixture starts to sizzle, about 10 minutes. Add the tomatoes, with their juice, and bring to a boil over high heat, then reduce to a simmer and cook, stirring occasionally, until the sauce has reduced and thickened, about 30 minutes. Stir in the fish sauce and grated cheese and with salt and pepper to taste; keep warm.",
+                "url": "https://www.umami.recipes/recipe/j6RMaZarLnWfLXjcYUyO?start=true&step=3"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "3. Meanwhile, bring a large pot of well-salted water to a boil.",
+                "url": "https://www.umami.recipes/recipe/j6RMaZarLnWfLXjcYUyO?start=true&step=4"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "4. Cook the pasta according in the boiling water until it is fully softened but retains a slight bite in the center. Drain the pasta, reserving 1 cup of cooking liquid, and return to the pot. Add the sauce and stir to combine, adding some of the reserved pasta water as necessary to thin the sauce to the desired consistency. Serve immediately, topped with parsley and more Parmigiano-Reggiano.",
+                "url": "https://www.umami.recipes/recipe/j6RMaZarLnWfLXjcYUyO?start=true&step=5"
+            }
+        ]
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Sweetgreen's Harvest Bowl Recipe",
+        "url": "https://www.umami.recipes/recipe/UubWhJUKqMM8v9rQmcEk",
+        "image": [
+            "https://www.umami.recipes/api/image/recipes/UubWhJUKqMM8v9rQmcEk/images/3qW5ll5ONywivK1BsMCLdz?w=2048&q=75"
+        ],
+        "author": {
+            "@type": "Person",
+            "name": "Max Roth"
+        },
+        "datePublished": "2024-01-16T18:06:04.574Z",
+        "prepTime": "P0Y0M0DT0H15M0S",
+        "cookTime": "P0Y0M0DT0H0M0S",
+        "totalTime": "P0Y0M0DT0H15M0S",
+        "keywords": "Sweetgreen's Harvest Bowl Recipe, Max's Meals",
+        "recipeYield": "4 servings",
+        "recipeCategory": "Max's Meals",
+        "recipeIngredient": [
+            "8 cups kale (deveined, washed and chopped)",
+            "2 cups wild rice (cooked)",
+            "2 cups chicken (cooked and cubed)",
+            "1 cup sweet potatoes (roasted in cubes)",
+            "1 cup apples (chopped)",
+            "1/4 cup goat cheese (crumbled)",
+            "1/4 cup almonds (chopped)",
+            "\u00bd cup plain Greek yogurt (I use 0% fat)",
+            "\u00bc cup balsamic vinegar",
+            "1 teaspoon Dijon mustard",
+            "1 teaspoon honey",
+            "juice from half a lemon",
+            "\u00bc tsp. salt",
+            "\u215b tsp. freshly ground black pepper",
+            "2 Tablespoons olive oil"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "In a small bowl, combine all of the dressing ingredients except the olive oil. Using a whisk, slowly add the olive oil while whisking vigorously.",
+                "url": "https://www.umami.recipes/recipe/UubWhJUKqMM8v9rQmcEk?start=true&step=1"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Combine all salad ingredients in a large bowl. Pour dressing over the salad, toss, and enjoy!",
+                "url": "https://www.umami.recipes/recipe/UubWhJUKqMM8v9rQmcEk?start=true&step=2"
+            }
+        ]
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Skillet Apple Cider Chicken",
+        "url": "https://www.umami.recipes/recipe/VuF8us5rnSoWVrNUm7ww",
+        "image": [
+            "https://www.umami.recipes/api/image/recipes/VuF8us5rnSoWVrNUm7ww/images/WI5DpmiP7TYWgdufL0P7E?w=2048&q=75"
+        ],
+        "author": {
+            "@type": "Person",
+            "name": "Max Roth"
+        },
+        "datePublished": "2024-04-17T03:10:41.950Z",
+        "prepTime": "P0Y0M0DT0H0M0S",
+        "cookTime": "P0Y0M0DT0H35M0S",
+        "totalTime": "P0Y0M0DT0H35M0S",
+        "keywords": "Skillet Apple Cider Chicken, Max's Meals",
+        "recipeYield": "4 servings",
+        "recipeCategory": "Max's Meals",
+        "nutrition": {
+            "@context": "https://schema.org",
+            "@type": "NutritionInformation",
+            "calories": "247",
+            "carbohydrateContent": "23.1 g",
+            "cholesterolContent": "95.2 mg",
+            "fatContent": "9.9 g",
+            "fiberContent": "2.4 g",
+            "proteinContent": "17.4 g",
+            "saturatedFatContent": "4.7 g",
+            "sodiumContent": "523.1 mg",
+            "sugarContent": "19.7 g",
+            "transFatContent": "0 g"
+        },
+        "recipeIngredient": [
+            "1 teaspoon salt, divided",
+            "1/2 teaspoon ground coriander",
+            "1/2 teaspoon ground cinnamon",
+            "1/2 teaspoon ground nutmeg",
+            "1/2 teaspoon dried thyme leaves",
+            "1/4 teaspoon ground black pepper",
+            "1 pound (454g) boneless, skinless chicken thighs",
+            "2 Tablespoons unsalted butter",
+            "1 Tablespoon light or dark brown sugar",
+            "2 cups (250g) apple slices (about 1/4-inch-thick slices, no need to peel)",
+            "1/3 cup (40g) chopped shallots (or yellow onion)",
+            "1/3 cup (80ml) apple cider (NOT apple cider vinegar)",
+            "optional: fresh thyme and rosemary, for garnish"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Heat a large 12-inch skillet over medium heat. I usually use a cast iron skillet, but any skillet this size works. You can also use a Dutch oven.",
+                "url": "https://www.umami.recipes/recipe/VuF8us5rnSoWVrNUm7ww?start=true&step=1"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "In a small bowl, mix together 3/4 teaspoon salt, the coriander, cinnamon, nutmeg, dried thyme, and pepper. Sprinkle the spice mixture over both sides of the chicken thighs.",
+                "url": "https://www.umami.recipes/recipe/VuF8us5rnSoWVrNUm7ww?start=true&step=2"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add a drizzle of oil to the hot skillet, and swirl to coat. Add the chicken thighs to the pan. Cook for 5 minutes, then flip and cook for 5 more minutes or until cooked through (internal temperature should be at least 165\u00b0F (74\u00b0C)). Transfer chicken to a plate and cover lightly. You\u2019ll add it back to the pan in the end of the next step.",
+                "url": "https://www.umami.recipes/recipe/VuF8us5rnSoWVrNUm7ww?start=true&step=3"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add the butter to the pan (no need to wipe it out first), and gently swirl to coat as it melts. Add the brown sugar, apples, and shallots, and sprinkle with the remaining 1/4 teaspoon salt. Cook, stirring occasionally, until apples begin to soften, about 5 minutes. Pour in the apple cider and cook, stirring occasionally, until the cider sauce has slightly thickened, about 5 minutes. Add the chicken back to the pan and cook for 2 minutes.",
+                "url": "https://www.umami.recipes/recipe/VuF8us5rnSoWVrNUm7ww?start=true&step=4"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Remove from heat. Spoon the apple mixture over the chicken to serve. Garnish with fresh thyme and rosemary, if desired.",
+                "url": "https://www.umami.recipes/recipe/VuF8us5rnSoWVrNUm7ww?start=true&step=5"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Leftovers keep well in the refrigerator for a few days. The butter in the sauce will solidify, but once you reheat, it all comes back together. You can reheat on the stove over medium heat or in the microwave.",
+                "url": "https://www.umami.recipes/recipe/VuF8us5rnSoWVrNUm7ww?start=true&step=6"
+            }
+        ]
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Sweet Potato Chickpea Buddha Bowl",
+        "url": "https://www.umami.recipes/recipe/diU4hVu3twOAYfO8TiDB",
+        "image": [
+            "https://www.umami.recipes/api/image/recipes/diU4hVu3twOAYfO8TiDB/images/5NTeiv07c1mZ0UFvhH23nY?w=2048&q=75"
+        ],
+        "author": {
+            "@type": "Person",
+            "name": "Max Roth"
+        },
+        "datePublished": "2024-08-05T19:14:41.001Z",
+        "prepTime": "P0Y0M0DT0H0M0S",
+        "cookTime": "P0Y0M0DT0H30M0S",
+        "totalTime": "P0Y0M0DT0H30M0S",
+        "keywords": "Sweet Potato Chickpea Buddha Bowl, Max's Meals",
+        "recipeYield": "3 servings",
+        "recipeCategory": "Max's Meals",
+        "nutrition": {
+            "@context": "https://schema.org",
+            "@type": "NutritionInformation",
+            "calories": "474 kcal",
+            "carbohydrateContent": "62 g",
+            "fatContent": "21 g",
+            "fiberContent": "11.4 g",
+            "proteinContent": "13.2 g",
+            "saturatedFatContent": "2.8 g",
+            "sodiumContent": "563 mg",
+            "sugarContent": "7.2 g"
+        },
+        "recipeIngredient": [
+            "2 Tbsp olive, melted coconut, or avocado oil",
+            "1/2 medium red onion (sliced in wedges)",
+            "2 small sweet potatoes (halved)",
+            "1 bundle broccolini (large stems removed // chopped)",
+            "2 big handfuls kale (larger stems removed)",
+            "1/4 tsp each salt + pepper",
+            "1 (15-ounce) can chickpeas (drained, rinsed + patted dry)",
+            "1 tsp cumin",
+            "3/4 tsp chili powder",
+            "3/4 tsp garlic powder",
+            "1/4 tsp each salt + pepper",
+            "1/2 tsp tsp oregano (optional)",
+            "1/4 tsp turmeric (optional)",
+            "1/4 cup tahini",
+            "1 Tbsp maple syrup",
+            "1/2 medium lemon (juiced)",
+            "2-4 Tbsp hot water (to thin)"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Preheat oven to 400 degrees F (204 C) and arrange sweet potatoes and onions on a bare baking sheet. Drizzle both with a bit of oil, making sure the flesh of the sweet potatoes are well coated and placed skin side down on the sheet.",
+                "url": "https://www.umami.recipes/recipe/diU4hVu3twOAYfO8TiDB?start=true&step=1"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Bake for 10 minutes, then remove from oven flip sweet potatoes and add broccolini. Drizzle broccolini with a bit of oil and season with a pinch each salt and pepper.",
+                "url": "https://www.umami.recipes/recipe/diU4hVu3twOAYfO8TiDB?start=true&step=2"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Bake for another 8-10 minutes, then remove from oven and add kale. Drizzle kale with a touch more oil and season with a pinch each salt and pepper. Bake for another 4-5 minutes then set aside.",
+                "url": "https://www.umami.recipes/recipe/diU4hVu3twOAYfO8TiDB?start=true&step=3"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "While vegetables are roasting, heat a large skillet over medium heat and add chickpeas to a mixing bowl and toss with seasonings.",
+                "url": "https://www.umami.recipes/recipe/diU4hVu3twOAYfO8TiDB?start=true&step=4"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Once hot, add 1 Tbsp oil (amount as original recipe is written // use half of total amount if altering batch size) and chickpeas and saut\u00e9, stirring frequently. If they\u2019re browning too quickly, turn down heat. If there isn\u2019t much browning going on, increase heat. I found 10 minutes total at slightly over medium heat was perfect.",
+                "url": "https://www.umami.recipes/recipe/diU4hVu3twOAYfO8TiDB?start=true&step=5"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Once the chickpeas are browned and fragrant, remove from heat and set aside.",
+                "url": "https://www.umami.recipes/recipe/diU4hVu3twOAYfO8TiDB?start=true&step=6"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Prepare sauce by adding tahini, maple syrup and lemon juice to a mixing bowl and whisking to combine. Add hot water until a pourable sauce is formed. Set aside.",
+                "url": "https://www.umami.recipes/recipe/diU4hVu3twOAYfO8TiDB?start=true&step=7"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "To serve: slice sweet potatoes into bite size pieces. Divide vegetables between 3 serving bowls and top with chickpeas + tahini sauce.",
+                "url": "https://www.umami.recipes/recipe/diU4hVu3twOAYfO8TiDB?start=true&step=8"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Best when fresh, though leftovers will keep for a few days in the fridge.",
+                "url": "https://www.umami.recipes/recipe/diU4hVu3twOAYfO8TiDB?start=true&step=9"
+            }
+        ]
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Delicious Egg Salad for Sandwiches",
+        "url": "https://www.umami.recipes/recipe/mxWNwYsLhbltaL1suEo5",
+        "image": [
+            "https://www.umami.recipes/api/image/recipes/mxWNwYsLhbltaL1suEo5/images/4AVb65Dz5W5zZUGN3c3uX8?w=2048&q=75"
+        ],
+        "author": {
+            "@type": "Person",
+            "name": "Max Roth"
+        },
+        "datePublished": "2024-01-16T17:54:28.752Z",
+        "prepTime": "P0Y0M0DT0H10M0S",
+        "cookTime": "P0Y0M0DT0H25M0S",
+        "totalTime": "P0Y0M0DT0H35M0S",
+        "keywords": "Delicious Egg Salad for Sandwiches, Max's Meals",
+        "recipeYield": "4 servings",
+        "recipeCategory": "Max's Meals",
+        "nutrition": {
+            "@context": "https://schema.org",
+            "@type": "NutritionInformation",
+            "calories": "344 kcal",
+            "carbohydrateContent": "2 g",
+            "cholesterolContent": "383 mg",
+            "fatContent": "32 g",
+            "fiberContent": "0 g",
+            "proteinContent": "13 g",
+            "saturatedFatContent": "6 g",
+            "sodiumContent": "351 mg",
+            "sugarContent": "1 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "recipeIngredient": [
+            "8 eggs",
+            "\u00bd cup mayonnaise",
+            "\u00bc cup chopped green onion",
+            "1 teaspoon prepared yellow mustard",
+            "\u00bc teaspoon paprika",
+            "salt and pepper to taste"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Place eggs in a saucepan and cover with cold water. Bring water to a boil and immediately remove from heat. Cover and let eggs stand in hot water for 10 to 12 minutes. Remove from hot water, cool, peel, and chop.",
+                "url": "https://www.umami.recipes/recipe/mxWNwYsLhbltaL1suEo5?start=true&step=1"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Place chopped eggs in a bowl; stir in mayonnaise, green onion, and mustard. Season with paprika, salt, and pepper. Stir and serve on your favorite bread or crackers.",
+                "url": "https://www.umami.recipes/recipe/mxWNwYsLhbltaL1suEo5?start=true&step=2"
+            }
+        ]
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "One Pan Autumn Chicken Dinner",
+        "url": "https://www.umami.recipes/recipe/2fUTgMMOdRR6KN8Z6HKm",
+        "image": [
+            "https://www.umami.recipes/api/image/recipes/2fUTgMMOdRR6KN8Z6HKm/images/6RiBr1CkjdOUMnnoStIF2E?w=2048&q=75"
+        ],
+        "author": {
+            "@type": "Person",
+            "name": "Max Roth"
+        },
+        "datePublished": "2024-01-16T17:25:58.491Z",
+        "prepTime": "P0Y0M0DT0H20M0S",
+        "cookTime": "P0Y0M0DT0H30M0S",
+        "totalTime": "P0Y0M0DT0H50M0S",
+        "keywords": "One Pan Autumn Chicken Dinner, Max's Meals",
+        "recipeYield": "5 servings",
+        "recipeCategory": "Max's Meals",
+        "nutrition": {
+            "@context": "https://schema.org",
+            "@type": "NutritionInformation",
+            "calories": "692 kcal",
+            "carbohydrateContent": "41 g",
+            "cholesterolContent": "181 mg",
+            "fatContent": "43 g",
+            "fiberContent": "8 g",
+            "proteinContent": "35 g",
+            "saturatedFatContent": "11 g",
+            "sodiumContent": "357 mg",
+            "sugarContent": "15 g"
+        },
+        "recipeIngredient": [
+            "5 (6 - 7 oz) bone-in, skin on chicken thighs",
+            "4 Tbsp olive oil, (divided)",
+            "1 1/2 Tbsp red wine vinegar",
+            "3 cloves garlic, (minced, 1 Tbsp)",
+            "1 Tbsp each minced fresh thyme, sage and rosemary",
+            "Salt and freshly ground black pepper",
+            "1 large sweet potato (about 16 oz) (I leave unpeeled, chopped into 3/4-inch cubes)",
+            "1 lb Brussels sprouts, (sliced into halves)",
+            "2 medium fuji apples, (cored and sliced into half moons about 3/4-inch thick)",
+            "2 shallot bulbs, (peeled and sliced about 1/4-inch thick)",
+            "4 slices hickory smoked bacon, (chopped into 1-inch pieces)",
+            "2 Tbsp chopped parsley, (for garnish, optional)"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Preheat oven to 450 degrees.",
+                "url": "https://www.umami.recipes/recipe/2fUTgMMOdRR6KN8Z6HKm?start=true&step=1"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Pour 2 Tbsp olive oil, red wine vinegar, garlic and herbs into a gallon size resealable bag.",
+                "url": "https://www.umami.recipes/recipe/2fUTgMMOdRR6KN8Z6HKm?start=true&step=2"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add chicken, season with salt and pepper then seal bag and massage mixture over chicken while working to evenly distribute herbs. Set aside and let rest while chopping veggies.",
+                "url": "https://www.umami.recipes/recipe/2fUTgMMOdRR6KN8Z6HKm?start=true&step=3"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Place sweet potato, Brussels sprouts, apples and shallot on an 18 by 13-inch rimmed baking sheet.",
+                "url": "https://www.umami.recipes/recipe/2fUTgMMOdRR6KN8Z6HKm?start=true&step=4"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Drizzle with remaining 2 Tbsp olive oil then toss to evenly coat, season with salt and pepper to taste. Spread into an even layer.",
+                "url": "https://www.umami.recipes/recipe/2fUTgMMOdRR6KN8Z6HKm?start=true&step=5"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Set chicken thighs over veggie/apple layer.",
+                "url": "https://www.umami.recipes/recipe/2fUTgMMOdRR6KN8Z6HKm?start=true&step=6"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Separate any pieces of bacon that may be stuck together then sprinkle bacon over veggie apple mixture.",
+                "url": "https://www.umami.recipes/recipe/2fUTgMMOdRR6KN8Z6HKm?start=true&step=7"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Roast in preheated oven until chicken and veggies are golden brown, about 30 - 35 minutes (chicken should register 165 in center). Broil during last few minutes for a more golden brown crispy skin on chicken if desired.",
+                "url": "https://www.umami.recipes/recipe/2fUTgMMOdRR6KN8Z6HKm?start=true&step=8"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Garnish with parsley if desired and serve warm.",
+                "url": "https://www.umami.recipes/recipe/2fUTgMMOdRR6KN8Z6HKm?start=true&step=9"
+            }
+        ],
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "ratingCount": 1,
+            "bestRating": 5,
+            "worstRating": 1
+        }
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "A great Chicken Marinade (great grilled or pan seared!)",
+        "url": "https://www.umami.recipes/recipe/ICp9Hc1slsokMvf7GFSC",
+        "image": [
+            "https://www.umami.recipes/api/image/recipes/ICp9Hc1slsokMvf7GFSC/images/2FZk47OCnd356SVf2ILZWO?w=2048&q=75"
+        ],
+        "author": {
+            "@type": "Person",
+            "name": "Max Roth"
+        },
+        "datePublished": "2024-06-11T22:35:56.623Z",
+        "prepTime": "P0Y0M0DT0H0M0S",
+        "cookTime": "P0Y0M0DT0H15M0S",
+        "totalTime": "P0Y0M0DT0H15M0S",
+        "keywords": "A great Chicken Marinade (great grilled or pan seared!), Max's Meals",
+        "recipeYield": "4 servings",
+        "recipeCategory": "Max's Meals",
+        "nutrition": {
+            "@context": "https://schema.org",
+            "@type": "NutritionInformation",
+            "calories": "243 kcal",
+            "carbohydrateContent": "8 g",
+            "cholesterolContent": "96 mg",
+            "fatContent": "7 g",
+            "proteinContent": "33 g",
+            "saturatedFatContent": "1 g",
+            "sodiumContent": "1202 mg",
+            "sugarContent": "6 g"
+        },
+        "recipeIngredient": [
+            "700g / 1.4 lb chicken breast, tenderloins or thigh (Note 1)",
+            "2 tbsp honey OR brown sugar",
+            "1 tbsp olive oil (or any oil)",
+            "5 tbsp soy sauce",
+            "2 tbsp lemon juice",
+            "2 tsp Worcestershire sauce",
+            "4 garlic cloves (, minced)",
+            "1 tsp dried oregano (or rosemary, thyme, minced herbs)",
+            "1/2 tsp black pepper (, ground)",
+            "Finely chopped parsley",
+            "Lemon slices"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Recommended: Pound breast to even thickness using a meat pounder, rolling pin, or fist. OR cut large ones in half horizontally to form 2 cutlets (steaks) for each.",
+                "url": "https://www.umami.recipes/recipe/ICp9Hc1slsokMvf7GFSC?start=true&step=1"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Mix marinade in a ziplock bag (or container in which chicken fits snugly). Add chicken.",
+                "url": "https://www.umami.recipes/recipe/ICp9Hc1slsokMvf7GFSC?start=true&step=2"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Marinate 3 hours to overnight, though even 30 minutes is effective. (Note 2)",
+                "url": "https://www.umami.recipes/recipe/ICp9Hc1slsokMvf7GFSC?start=true&step=3"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Heat 1 tbsp olive oil in a large skillet over medium high heat, and cook chicken per times below until deep golden (see video). If browning too quickly, lower heat.",
+                "url": "https://www.umami.recipes/recipe/ICp9Hc1slsokMvf7GFSC?start=true&step=4"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Transfer to serving plate, cover loosely with foil and rest for 3 minutes before serving, garnished with parsley and lemon slices if desired.",
+                "url": "https://www.umami.recipes/recipe/ICp9Hc1slsokMvf7GFSC?start=true&step=5"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Cook times:",
+                "url": "https://www.umami.recipes/recipe/ICp9Hc1slsokMvf7GFSC?start=true&step=6"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Whole breast and boneless thighs: 3 - 4 minutes each side (internal temp 165F/75C)",
+                "url": "https://www.umami.recipes/recipe/ICp9Hc1slsokMvf7GFSC?start=true&step=7"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Cutlets and tenderloin - 2 minutes each side",
+                "url": "https://www.umami.recipes/recipe/ICp9Hc1slsokMvf7GFSC?start=true&step=8"
+            }
+        ]
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "20 Minute Honey Garlic Shrimp",
+        "url": "https://www.umami.recipes/recipe/TaJezVTlYm4J6HxkqjpS",
+        "image": [
+            "https://www.umami.recipes/api/image/recipes/TaJezVTlYm4J6HxkqjpS/images/4WsSBwYIs2hvDqQX0IS2M8?w=2048&q=75"
+        ],
+        "author": {
+            "@type": "Person",
+            "name": "Max Roth"
+        },
+        "datePublished": "2024-04-17T03:54:04.005Z",
+        "prepTime": "P0Y0M0DT0H0M0S",
+        "cookTime": "P0Y0M0DT0H20M0S",
+        "totalTime": "P0Y0M0DT0H20M0S",
+        "keywords": "20 Minute Honey Garlic Shrimp, Max's Meals",
+        "recipeYield": "4 servings",
+        "recipeCategory": "Max's Meals",
+        "recipeIngredient": [
+            "1/3 cup honey",
+            "1/4 cup soy sauce (we usually use reduced sodium)",
+            "2 garlic cloves, minced (or 1 teaspoon jarred minced garlic)",
+            "optional: 1 teaspoon minced fresh ginger",
+            "1 lb medium uncooked shrimp, peeled & deveined",
+            "2 teaspoons olive oil",
+            "optional for garnish: chopped green onion"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Whisk the honey, soy sauce, garlic, and ginger (if using) together in a medium bowl. You will use half for the marinade in step 2 and half for cooking the shrimp in step 3.",
+                "url": "https://www.umami.recipes/recipe/TaJezVTlYm4J6HxkqjpS?start=true&step=1"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Place shrimp in a large sealable container or zipped-top bag. Pour 1/2 of the marinade/sauce mixture on top, give it all a shake or stir, then allow shrimp to marinate in the refrigerator for 15 minutes or for up to 8-12 hours. Cover and refrigerate the rest of the marinade for step 3. (Time-saving tip: while the shrimp is marinating, we usually steam broccoli and microwave some quick brown rice.)",
+                "url": "https://www.umami.recipes/recipe/TaJezVTlYm4J6HxkqjpS?start=true&step=2"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Heat olive oil in a skillet over medium-high heat. Place shrimp in the skillet. (Discard used marinade.) Cook shrimp on one side until pink, about 45 seconds, then flip shrimp over. Pour in remaining marinade/sauce and cook it all until shrimp is cooked through, about 1-2 more minutes.",
+                "url": "https://www.umami.recipes/recipe/TaJezVTlYm4J6HxkqjpS?start=true&step=3"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Serve shrimp with cooked marinade sauce and a garnish of green onion. The sauce is excellent on brown rice and steamed vegetables on the side.",
+                "url": "https://www.umami.recipes/recipe/TaJezVTlYm4J6HxkqjpS?start=true&step=4"
+            }
+        ]
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Asian Cabbage Salad",
+        "url": "https://www.umami.recipes/recipe/hhRf7RpOWvy0KxiIfP1x",
+        "image": [
+            "https://www.umami.recipes/api/image/recipes/hhRf7RpOWvy0KxiIfP1x/images/H5qvQ54TJHKYHuS78wMo6c?w=2048&q=75"
+        ],
+        "author": {
+            "@type": "Person",
+            "name": "Max Roth"
+        },
+        "datePublished": "2024-04-06T15:59:08.334Z",
+        "prepTime": "P0Y0M0DT0H0M0S",
+        "cookTime": "P0Y0M0DT0H25M0S",
+        "totalTime": "P0Y0M0DT0H25M0S",
+        "keywords": "Asian Cabbage Salad, Max's Meals",
+        "recipeYield": "8 servings",
+        "recipeCategory": "Max's Meals",
+        "nutrition": {
+            "@context": "https://schema.org",
+            "@type": "NutritionInformation",
+            "calories": "123 kcal",
+            "carbohydrateContent": "15 g",
+            "fatContent": "6 g",
+            "fiberContent": "4 g",
+            "proteinContent": "5 g",
+            "saturatedFatContent": "1 g",
+            "servingSize": "1 (of 8)",
+            "sugarContent": "9 g"
+        },
+        "recipeIngredient": [
+            "1 cup crispy wontons",
+            "1/2 cup sliced or slivered almonds",
+            "\u00bd small head green cabbage (finely sliced, about 3 cups*)",
+            "\u00bd small head red cabbage (finely sliced, about 3 cups**)",
+            "1 medium red bell pepper (very thinly sliced)",
+            "1 cup shredded carrots (about 2 medium)",
+            "1 cup frozen shelled edamame (thawed)",
+            "1/2 cup chopped fresh cilantro",
+            "\u00bc cup rice vinegar",
+            "2 tablespoons honey",
+            "2 tablespoons low sodium soy sauce",
+            "1 tablespoon creamy peanut butter",
+            "1 tablespoon minced fresh ginger"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Preheat the oven to 350 degrees F. Spread the nuts in a single layer on an ungreased rimmed baking sheet. Toast for 4 to 6 minutes, until fragrant and crisp. Toss once halfway through and do not walk away during the last few minutes of cooking (TRUST ME). Immediately remove to a small bowl or plate (or if your salad is ready to go, you can add them directly to the serving bowl).",
+                "url": "https://www.umami.recipes/recipe/hhRf7RpOWvy0KxiIfP1x?start=true&step=1"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "In a large bowl, place the green and red cabbage, bell pepper, carrots, edamame, and cilantro.",
+                "url": "https://www.umami.recipes/recipe/hhRf7RpOWvy0KxiIfP1x?start=true&step=2"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "In a medium mixing bowl or large liquid measuring cup, whisk together the dressing ingredients: rice vinegar, honey, soy sauce, peanut butter, and ginger. Pour enough over the salad to moisten it. Toss to coat. Assess the amount of dressing and add more as desired. Add the almonds and give the salad a final, light toss. If time allows, let marinade for 30 minutes prior to serving. Enjoy!",
+                "url": "https://www.umami.recipes/recipe/hhRf7RpOWvy0KxiIfP1x?start=true&step=3"
+            }
+        ]
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Indian Cabbage Salad",
+        "url": "https://www.umami.recipes/recipe/bfQYf2003MG5CNDLTMH9",
+        "image": [
+            "https://www.umami.recipes/api/image/recipes/bfQYf2003MG5CNDLTMH9/images/UswXgnLH9SLJ4cNRRQmvSv?w=2048&q=75"
+        ],
+        "author": {
+            "@type": "Person",
+            "name": "Max Roth"
+        },
+        "datePublished": "2024-03-20T17:21:26.670Z",
+        "prepTime": "P0Y0M0DT0H0M0S",
+        "cookTime": "P0Y0M0DT0H20M0S",
+        "totalTime": "P0Y0M0DT0H20M0S",
+        "keywords": "Indian Cabbage Salad, Max's Meals",
+        "recipeYield": "5 servings",
+        "recipeCategory": "Max's Meals",
+        "nutrition": {
+            "@context": "https://schema.org",
+            "@type": "NutritionInformation",
+            "calories": "77 kcal",
+            "carbohydrateContent": "9 g",
+            "fatContent": "5 g",
+            "fiberContent": "3 g",
+            "proteinContent": "2 g",
+            "saturatedFatContent": "1 g",
+            "sodiumContent": "487 mg",
+            "sugarContent": "4 g"
+        },
+        "recipeIngredient": [
+            "2 cups green cabbage (thinly sliced and chopped)",
+            "\u00bd cup red pepper (thinly sliced)",
+            "\u00bd cup green pepper (thinly sliced)",
+            "\u00bd cup carrots (julienned)",
+            "\u00bd cup red onion (thinly sliced)",
+            "\u00bd cup purple cabbage. thinly sliced and chopped (optional)",
+            "1\u00bd tablespoons oil",
+            "1 teaspoon black mustard seeds",
+            "\u00bc teaspoon asafetida",
+            "\u00bd teaspoon ground turmeric",
+            "\u00bd teaspoon red chili powder",
+            "1 teaspoon kosher salt",
+            "1 lemon (cut into half & juiced)"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Mix all the veggies in a medium bowl.",
+                "url": "https://www.umami.recipes/recipe/bfQYf2003MG5CNDLTMH9?start=true&step=1"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Heat oil in a small saucepan over medium heat. Once the oil is hot and shimmering, add mustard seeds. Turn the heat off as the mustard seeds start to pop. Add asafetida, turmeric & red chili powder.",
+                "url": "https://www.umami.recipes/recipe/bfQYf2003MG5CNDLTMH9?start=true&step=2"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Pour this tempering over the veggies. Add salt and lemon juice. Mix well and enjoy.",
+                "url": "https://www.umami.recipes/recipe/bfQYf2003MG5CNDLTMH9?start=true&step=3"
+            }
+        ]
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Brussels Sprout-Potato Hash Recipe | Cook the Book",
+        "url": "https://www.umami.recipes/recipe/KbTfshlwM1swf5s670bV",
+        "image": [
+            "https://www.umami.recipes/api/image/recipes/KbTfshlwM1swf5s670bV/images/56hLG1zXubcUnlMa6xeOE8?w=2048&q=75"
+        ],
+        "author": {
+            "@type": "Person",
+            "name": "Max Roth"
+        },
+        "datePublished": "2025-01-06T16:44:57.360Z",
+        "prepTime": "P0Y0M0DT0H0M0S",
+        "cookTime": "P0Y0M0DT0H45M0S",
+        "totalTime": "P0Y0M0DT0H45M0S",
+        "keywords": "Brussels Sprout-Potato Hash Recipe | Cook the Book, Max's Meals",
+        "recipeYield": "4 servings",
+        "recipeCategory": "Max's Meals",
+        "nutrition": {
+            "@context": "https://schema.org",
+            "@type": "NutritionInformation",
+            "calories": "159 kcal",
+            "carbohydrateContent": "31 g",
+            "cholesterolContent": "0 mg",
+            "fatContent": "3 g",
+            "fiberContent": "5 g",
+            "proteinContent": "5 g",
+            "saturatedFatContent": "0 g",
+            "servingSize": "4",
+            "sodiumContent": "553 mg",
+            "sugarContent": "3 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "recipeIngredient": [
+            "2 teaspoons olive oil",
+            "1/2 pound Brussels sprouts, quartered lengthwise",
+            "1 pound Yukon Gold potatoes, cut into 1/2-inch pieces",
+            "1 small onion, diced small",
+            "3 cloves garlic, minced",
+            "2 teaspoons dried thyme",
+            "Freshly ground black pepper",
+            "1 teaspoon salt",
+            "2 teaspoons grated lemon zest (from 1 lemon)"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Preheat a large, heavy pan, preferably cast iron, over medium heat. Saut\u00e9 the potatoes and sprouts in 1 teaspoon of the oil, using nonstick cooking spray as necessary. Cover the pan and cook for about 30 minutes, stirring occasionally, until the potatoes are tender and lightly browned. Add the onion, garlic, thyme, pepper, salt, and lemon zest. Drizzle with the remaining teaspoon of oil. Cook for another 15 minutes, stirring occasionally, until the onions are browned. Serve!",
+                "url": "https://www.umami.recipes/recipe/KbTfshlwM1swf5s670bV?start=true&step=1"
+            }
+        ]
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Cabbage Roll Casserole",
+        "url": "https://www.umami.recipes/recipe/9lwwqtQT1bPF5tVf2Avj",
+        "image": [
+            "https://www.umami.recipes/api/image/recipes/9lwwqtQT1bPF5tVf2Avj/images/QWQPKcLeqapKMLeWfvu9oF?w=2048&q=75"
+        ],
+        "author": {
+            "@type": "Person",
+            "name": "Max Roth"
+        },
+        "datePublished": "2024-01-16T17:38:51.544Z",
+        "prepTime": "P0Y0M0DT0H20M0S",
+        "cookTime": "P0Y0M0DT1H20M0S",
+        "totalTime": "P0Y0M0DT1H40M0S",
+        "keywords": "Cabbage Roll Casserole, Max's Meals",
+        "recipeYield": "12 servings",
+        "recipeCategory": "Max's Meals",
+        "nutrition": {
+            "@context": "https://schema.org",
+            "@type": "NutritionInformation",
+            "calories": "352 kcal",
+            "carbohydrateContent": "26 g",
+            "cholesterolContent": "64 mg",
+            "fatContent": "21 g",
+            "fiberContent": "5 g",
+            "proteinContent": "17 g",
+            "saturatedFatContent": "8 g",
+            "sodiumContent": "840 mg",
+            "sugarContent": "8 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "recipeIngredient": [
+            "2 pounds ground beef",
+            "3 \u00bd pounds chopped cabbage",
+            "1 (29 ounce) can tomato sauce",
+            "1 cup chopped onion",
+            "1 cup uncooked white rice",
+            "1 teaspoon salt",
+            "2 (14 ounce) cans beef broth"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Preheat the oven to 350 degrees F (175 degrees C) and gather all ingredients.",
+                "url": "https://www.umami.recipes/recipe/9lwwqtQT1bPF5tVf2Avj?start=true&step=1"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Heat a large skillet over medium-high heat. Cook and stir ground beef in the hot skillet until browned and crumbly, 5 to 7 minutes. Drain and discard grease.",
+                "url": "https://www.umami.recipes/recipe/9lwwqtQT1bPF5tVf2Avj?start=true&step=2"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Combine cabbage, tomato sauce, onion, rice, and salt in a large mixing bowl. Stir in cooked ground beef. Pour mixture into a 9x13-inch baking dish, then pour beef broth over top.",
+                "url": "https://www.umami.recipes/recipe/9lwwqtQT1bPF5tVf2Avj?start=true&step=3"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Cover and bake in the preheated oven for 1 hour.",
+                "url": "https://www.umami.recipes/recipe/9lwwqtQT1bPF5tVf2Avj?start=true&step=4"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Stir, re-cover, and bake until cabbage is tender and rice is done, 20 to 30 minutes more.",
+                "url": "https://www.umami.recipes/recipe/9lwwqtQT1bPF5tVf2Avj?start=true&step=5"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Serve hot and enjoy!",
+                "url": "https://www.umami.recipes/recipe/9lwwqtQT1bPF5tVf2Avj?start=true&step=6"
+            }
+        ]
+    }
+]
